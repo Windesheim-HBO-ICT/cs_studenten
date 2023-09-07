@@ -60,6 +60,7 @@ Het aantal kaarten, de tijd en het aantal pogingen bepalen de score. ((Aantal ka
 -	Zet de applicatie in lagen op volgens de ‘The big three’: UI, Business, DataAccess.
 -	Begin met een opzet in de code waarbij je de logica van het spel kunt getest kan worden zonder dat je de UI of gegevensopslag gebruikt.
 -	Je hebt een solution met (minimaal) één project voor de Console applicatie, één project voor de WPF (of MAUI) applicatie en één voor de business logica en één voor de data access logica. Het project voor de business logica heeft geen verwijzing naar een van de andere projecten. De andere projecten mogen wel naar elkaar of naar het business project verwijzen.
+-	Zie referentie architectuur: [https://github.com/Windesheim-HBO-ICT/cs_studenten/demo/todo/todosolution](https://github.com/Windesheim-HBO-ICT/cs_studenten/tree/main/demo/todo)
 
 ## Database aanmaken
 Gebruik in Visual Studio de SQL Server Object Explorer om een MsSql LocalDb database aan te maken. Een andere mogelijkheid is een SqLite of MariaDb database. Je kunt een designer gebruiken om een tabel aan te maken of een create table script uitvoeren. 
