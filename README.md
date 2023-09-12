@@ -7,10 +7,8 @@ Hieronder een schematische weergave van de soorten opdrachten.
 
 De extra opdracht is optioneel. 
 
-###Aftekenopdrachten
+###Aftekenopdrachten  
 Tijdens deze periode maak je twee opdrachten die genoteerd worden in Educator. Deze opdrachten vind je in de map: aftekenopdrachten.
-
-![img_1.png](img_1.png)
 
 
 ## Overzicht opdrachten
