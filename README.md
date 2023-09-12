@@ -24,4 +24,4 @@ Tijdens deze periode maak je twee opdrachten die genoteerd worden in Educator. D
 | 4    | 1   | Alarmsysteem                               | ✅                |
 | 4    | 2   | Circus                                     | ❌                |
 | 5    | 1   | Menu                                       | ❌                |
-| 5    | 2   | Vervolg fastfood casus, Arts opdracht      | ❌                |
+| 5    | 2   | Vervolg fastfood casus, Arts opdracht      | ❌❌                |
