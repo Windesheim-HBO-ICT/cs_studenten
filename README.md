@@ -1,5 +1,17 @@
 # CS
 
+## Werkwijze
+Hieronder een schematische weergave van de soorten opdrachten.
+
+![img.png](img.png)
+
+De extra opdracht is optioneel. 
+
+###Aftekenopdrachten
+Tijdens deze periode maak je twee opdrachten die genoteerd worden in Educator. Deze opdrachten vind je in de map: aftekenopdrachten.
+
+![img_1.png](img_1.png)
+
 
 ## Overzicht opdrachten
 
