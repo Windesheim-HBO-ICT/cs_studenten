@@ -39,7 +39,6 @@ Highscore
 Van de gespeelde spellen wordt een lijst van highscores bijgehouden. Alleen wanneer een highscore in de top 10 komt, wordt de score opgeslagen.
 Het aantal kaarten, de tijd en het aantal pogingen bepalen de score. ((Aantal kaarten)2 / (Tijd in seconden * aantal pogingen)) * 1000
 
-|--|--|--|--|
 |Aantal kaarten| Tijd| Aantal pogingen| Score|
 |--|--|--|--|
 |4|10|2|(16 / 20 => 0,8) * 1000 => score:  800|  
