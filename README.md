@@ -13,7 +13,7 @@ Tijdens deze periode maak je twee opdrachten die genoteerd worden in Educator. D
 
 ## Overzicht opdrachten
 
-| week | les | uitbreid opdrachten                        | aanwezig in repo |
+| week | les | uitbreidopdrachten                        | aanwezig in repo |
 |------|-----|--------------------------------------------|------------------|
 | 1    | 1   | Primitives                                 | ✅                |
 |      | 2   | Gegevensbeheerder                          | ✅                |
