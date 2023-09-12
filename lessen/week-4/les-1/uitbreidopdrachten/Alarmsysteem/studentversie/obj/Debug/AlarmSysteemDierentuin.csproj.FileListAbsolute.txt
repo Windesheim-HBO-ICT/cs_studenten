@@ -1,0 +1,7 @@
+C:\Users\eb0095856\Documents\Projecten\cs_toetsing\lessen\week 4 - les 1 Delegates en Events\uitbreid opdrachten\Alarm systeem\bin\Debug\AlarmSysteem.exe.config
+C:\Users\eb0095856\Documents\Projecten\cs_toetsing\lessen\week 4 - les 1 Delegates en Events\uitbreid opdrachten\Alarm systeem\bin\Debug\AlarmSysteem.exe
+C:\Users\eb0095856\Documents\Projecten\cs_toetsing\lessen\week 4 - les 1 Delegates en Events\uitbreid opdrachten\Alarm systeem\bin\Debug\AlarmSysteem.pdb
+C:\Users\eb0095856\Documents\Projecten\cs_toetsing\lessen\week 4 - les 1 Delegates en Events\uitbreid opdrachten\Alarm systeem\obj\Debug\AlarmSysteemDierentuin.csproj.AssemblyReference.cache
+C:\Users\eb0095856\Documents\Projecten\cs_toetsing\lessen\week 4 - les 1 Delegates en Events\uitbreid opdrachten\Alarm systeem\obj\Debug\AlarmSysteemDierentuin.csproj.CoreCompileInputs.cache
+C:\Users\eb0095856\Documents\Projecten\cs_toetsing\lessen\week 4 - les 1 Delegates en Events\uitbreid opdrachten\Alarm systeem\obj\Debug\AlarmSysteem.exe
+C:\Users\eb0095856\Documents\Projecten\cs_toetsing\lessen\week 4 - les 1 Delegates en Events\uitbreid opdrachten\Alarm systeem\obj\Debug\AlarmSysteem.pdb
