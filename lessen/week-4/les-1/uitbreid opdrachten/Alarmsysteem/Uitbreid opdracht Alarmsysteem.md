@@ -15,11 +15,16 @@ om de verblijven open te zetten. Dit heeft natuurlijk gevolgen voor de bezoekers
 maar het welzijn van de dieren staat bij uitstek voorop.
 
 ### Functionele vereisten
+- Zodra rook is gemeld 
+  - wordt dit aan de alarmcentrale doorgegeven
+  - wordt de sprinkler installatie aangezet
+  - worden de dierenverblijven open gezet
 
 
 ### Niet-functionele vereisten
 - De applicatie is een console applicatie
 - De applicatienaam is niet gelijk aan 'AlarmSysteem' omdat dit conflicteert met de klasse `AlarmSysteem`
+- De meldingen en uitvoeren van taken wordt geregeld via delegates en events
 
 ### Testprocedure
 1. Start de console applicatie (waarin de taken worden geregistreerd en alarm wordt geslagen)
