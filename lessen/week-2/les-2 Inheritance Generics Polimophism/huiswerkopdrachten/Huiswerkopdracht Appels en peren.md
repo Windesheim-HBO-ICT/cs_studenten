@@ -8,7 +8,7 @@
 
 
 ## Beschrijving  
-In deze opdracht leer je polymorfisme toe te passen door interfaces en methodes uit bestaande .NET bibliotheken toe te passen. Je gaat appels en/met peren vergelijken om ze gesorteerd weer te kunnen geven. 
+In deze opdracht leer je polymorfisme en generics toe te passen door interfaces en methodes uit bestaande .NET bibliotheken te implementeren. Je gaat appels en/met peren vergelijken om ze gesorteerd weer te kunnen geven. 
 
 ## Functionele Vereisten:  
 - Appels worden vergeleken op basis van kleur (rood, geel en groen)
@@ -30,7 +30,7 @@ In deze opdracht leer je polymorfisme toe te passen door interfaces en methodes 
 5. Print de lijst
 
 ## Testresultaat:  
-- De appels worden eerst ongesorteerd weergegeven, daarna worden de appels op kleur gesorteerd weergegeven, daarna wordt een lijst met een peer bovenaan een sorteerde lijst met appels weergegeven.
+- De appels worden eerst ongesorteerd weergegeven, daarna worden de appels op kleur gesorteerd weergegeven, daarna wordt een gesorteerde lijst met appels weergegeven, waarin bovenaan een peer staat.
 
 
 
