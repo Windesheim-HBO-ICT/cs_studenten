@@ -17,9 +17,9 @@ In deze opdracht leer je polymorfisme en generics toe te passen door interfaces 
 
 
 ## Niet-functionele Vereisten:  
-- Implementeer de .NET interface IComparable<T> om appels op kleur te vergelijken
+- Implementeer de .NET interface IComparable`<T>` om appels op kleur te vergelijken
 - Gebruik de generic List<T> en de Sort() methode om te sorteren
-- Implementeer de .NET interface IComparable<T> om appels met peren te vergelijken
+- Implementeer de .NET interface IComparable`<T>` om appels met peren te vergelijken
 
 ## Testprocedure:  
 1. Neem meerdere (en verschillend gekleurde) appels op in een lijst.
