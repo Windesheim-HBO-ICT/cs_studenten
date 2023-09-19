@@ -1,0 +1,12 @@
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-4\les-2\huiswerkopdrachten\Opdracht_Studiefinanciering\OverheidLibrary\bin\Debug\net6.0\OverheidLibrary.deps.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-4\les-2\huiswerkopdrachten\Opdracht_Studiefinanciering\OverheidLibrary\bin\Debug\net6.0\OverheidLibrary.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-4\les-2\huiswerkopdrachten\Opdracht_Studiefinanciering\OverheidLibrary\bin\Debug\net6.0\OverheidLibrary.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-4\les-2\huiswerkopdrachten\Opdracht_Studiefinanciering\OverheidLibrary\obj\Debug\net6.0\OverheidLibrary.csproj.AssemblyReference.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-4\les-2\huiswerkopdrachten\Opdracht_Studiefinanciering\OverheidLibrary\obj\Debug\net6.0\OverheidLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-4\les-2\huiswerkopdrachten\Opdracht_Studiefinanciering\OverheidLibrary\obj\Debug\net6.0\OverheidLibrary.AssemblyInfoInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-4\les-2\huiswerkopdrachten\Opdracht_Studiefinanciering\OverheidLibrary\obj\Debug\net6.0\OverheidLibrary.AssemblyInfo.cs
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-4\les-2\huiswerkopdrachten\Opdracht_Studiefinanciering\OverheidLibrary\obj\Debug\net6.0\OverheidLibrary.csproj.CoreCompileInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-4\les-2\huiswerkopdrachten\Opdracht_Studiefinanciering\OverheidLibrary\obj\Debug\net6.0\OverheidLibrary.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-4\les-2\huiswerkopdrachten\Opdracht_Studiefinanciering\OverheidLibrary\obj\Debug\net6.0\refint\OverheidLibrary.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-4\les-2\huiswerkopdrachten\Opdracht_Studiefinanciering\OverheidLibrary\obj\Debug\net6.0\OverheidLibrary.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-4\les-2\huiswerkopdrachten\Opdracht_Studiefinanciering\OverheidLibrary\obj\Debug\net6.0\ref\OverheidLibrary.dll
