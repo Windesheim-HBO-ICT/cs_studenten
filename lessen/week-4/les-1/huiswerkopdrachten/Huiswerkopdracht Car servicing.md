@@ -53,6 +53,7 @@ Een garage hoeft (om het eenvoudig te houden) voor maar één auto tegelijkertij
 De tot nu toe geschreven code en de klassen kunnen al gebruikt worden. Schrijf de code om de auto's en de garage aan te maken. Geef de auto's een onderhoudsbeurt en print daarna de onderhoudsboekjes in het scherm.
 
 Wanneer het eerste gedeelte correct in het verste weergegeven wordt, kan verder gegaan worden met het implementeren van de onderhoudsactiviteit 'sterretje in ruit-service'.
+
 Implementatie glasreparatiebedrijf:
 Een glasreparatiebedrijf kan netzoals een garage een methode krijgen waarmee een auto als parameter opgenomen is. In deze methode schrijft het glasreparatiebedrijf de onderhoudsactiviteit met de naam van het glasreparatiebedrijf in het onderhoudsboekje.
 
