@@ -1,4 +1,4 @@
-# Car servicing**
+# Car Servicing
 
 
 
@@ -42,10 +42,13 @@ Werk in deze opdracht eerst het eenvoudige uit. Schrijf de code voor een garage,
 
 Implementatie onderhoudsboekje:
 Een onderhoudsboekje kan bijvoorbeeld met een method een melding registreren en met een property alle meldingen (inclusief het merk van de auto) onder elkaar als één string terug geven. 
+
 Implementatie auto:
 Een auto hoeft alleen een merk en een onderhoudsboekje als property te krijgen. 
+
 Implementatie garage:
 Een garage hoeft (om het eenvoudig te houden) voor maar één auto tegelijkertijd onderhoud uit te voeren. Daarvoor kun je de garage een methode geven met een auto als parameter. Deze methode schrijft de onderhoudsactiviteiten in het onderhoudsboekje.
+
 
 De tot nu toe geschreven code en de klassen kunnen al gebruikt worden. Schrijf de code om de auto's en de garage aan te maken. Geef de auto's een onderhoudsbeurt en print daarna de onderhoudsboekjes in het scherm.
 
