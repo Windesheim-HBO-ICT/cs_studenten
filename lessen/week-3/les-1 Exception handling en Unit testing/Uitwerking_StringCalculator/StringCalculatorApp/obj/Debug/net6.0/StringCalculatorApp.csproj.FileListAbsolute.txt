@@ -1,0 +1,15 @@
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-3\les-1 Exception handling en Unit testing\Uitwerking_StringCalculator\StringCalculatorApp\bin\Debug\net6.0\StringCalculatorApp.exe
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-3\les-1 Exception handling en Unit testing\Uitwerking_StringCalculator\StringCalculatorApp\bin\Debug\net6.0\StringCalculatorApp.deps.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-3\les-1 Exception handling en Unit testing\Uitwerking_StringCalculator\StringCalculatorApp\bin\Debug\net6.0\StringCalculatorApp.runtimeconfig.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-3\les-1 Exception handling en Unit testing\Uitwerking_StringCalculator\StringCalculatorApp\bin\Debug\net6.0\StringCalculatorApp.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-3\les-1 Exception handling en Unit testing\Uitwerking_StringCalculator\StringCalculatorApp\bin\Debug\net6.0\StringCalculatorApp.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-3\les-1 Exception handling en Unit testing\Uitwerking_StringCalculator\StringCalculatorApp\obj\Debug\net6.0\StringCalculatorApp.csproj.AssemblyReference.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-3\les-1 Exception handling en Unit testing\Uitwerking_StringCalculator\StringCalculatorApp\obj\Debug\net6.0\StringCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-3\les-1 Exception handling en Unit testing\Uitwerking_StringCalculator\StringCalculatorApp\obj\Debug\net6.0\StringCalculatorApp.AssemblyInfoInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-3\les-1 Exception handling en Unit testing\Uitwerking_StringCalculator\StringCalculatorApp\obj\Debug\net6.0\StringCalculatorApp.AssemblyInfo.cs
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-3\les-1 Exception handling en Unit testing\Uitwerking_StringCalculator\StringCalculatorApp\obj\Debug\net6.0\StringCalculatorApp.csproj.CoreCompileInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-3\les-1 Exception handling en Unit testing\Uitwerking_StringCalculator\StringCalculatorApp\obj\Debug\net6.0\StringCalculatorApp.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-3\les-1 Exception handling en Unit testing\Uitwerking_StringCalculator\StringCalculatorApp\obj\Debug\net6.0\refint\StringCalculatorApp.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-3\les-1 Exception handling en Unit testing\Uitwerking_StringCalculator\StringCalculatorApp\obj\Debug\net6.0\StringCalculatorApp.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-3\les-1 Exception handling en Unit testing\Uitwerking_StringCalculator\StringCalculatorApp\obj\Debug\net6.0\StringCalculatorApp.genruntimeconfig.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\lessen\week-3\les-1 Exception handling en Unit testing\Uitwerking_StringCalculator\StringCalculatorApp\obj\Debug\net6.0\ref\StringCalculatorApp.dll
