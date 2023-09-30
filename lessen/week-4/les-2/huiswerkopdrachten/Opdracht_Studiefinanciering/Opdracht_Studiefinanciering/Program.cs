@@ -18,10 +18,10 @@ studiefinanciering.UitbetalingEvent += new UitbetalingDelegate(teunTeunsen.ZetBe
 
 #region Opdracht
 
-// Schrijf alle code binnen deze region Opdracht
+// Schrijf alle code binnen deze region 'Opdracht'
 
 // 1. Maak een nieuwe student aan (jezelf ;) en voeg deze toe aan de lijst van studenten
-// 2. Abboneer op het uitbetalings event van de 'Studiefinanciering'. Voer het programma uit en controleer of de studiefinanciereing evenredig verdeeld wordt.
+// 2. Abonneer op het uitbetalings event van de 'Studiefinanciering'. Voer het programma uit en controleer of de studiefinanciereing evenredig verdeeld wordt.
 // 3. Hack de studiefinanciering waardoor de nieuwe student meer of zelfs het hele landelijke studiefinancieringsbudget ontvangt! (alle code dien je te schrijven binnen de region Opdracht)
 
 

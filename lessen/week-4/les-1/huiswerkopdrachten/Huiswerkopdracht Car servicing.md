@@ -20,7 +20,7 @@ In deze opdracht leer je een van de mogelijkheden waarop een delegate toegepast 
 
 
 ## Niet-functionele Vereisten: 
-- Maak alleen een klassedefinitie voor de volgende entiteiten: auto, onderhoudsboekje, garage en glasreparatiebedrijf.
+- Maak klasses aan voor de volgende entiteiten: auto, onderhoudsboekje, garage en glasreparatiebedrijf.
 - Gebruik een delegate waarmee de garage de 'sterretje in raam-service' delegeert naar een glasreparatiebedrijf.
 - De naam van de klasse glasreparatiebedrijf (het type) mag niet in de klasse van de garage gebruikt worden.
 - Houd je aan standaard naamgevingsconventies en gebruik herkenbare en passende namen in de geschreven code.
@@ -29,19 +29,21 @@ In deze opdracht leer je een van de mogelijkheden waarop een delegate toegepast 
 1. Maak twee glasreparatiebedrijven aan: een met de naam AutoTotaalGlas en een met de naam CarGlass.
 2. Maak drie auto's aan: Tesla, Ferrari en Mercedes.
 3. Maak een garage aan.
-4. De Tesla krijgt een standard onderhoudsbeurt (zonder glasreparatie)
-5. De Ferrari krijgt een garage onderhoudsbeurt inclusief een sterretje in ruit service door AutoTotaalGlas.
+4. De Tesla krijgt een onderhoudsbeurt door de garage (zonder glasreparatie)
+5. De Ferrari krijgt een onderhoudsbeurt door de garage inclusief een sterretje-in-ruit-service door AutoTotaalGlas.
 6. De Mercedes krijgt een garage onderhoudsbeurt inclusief een sterretje in ruit service door CarGlass.
 7. Print de onderhoudsboekjes van de auto's in het scherm.
 
 ## Testresultaat:  
 - Drie onderhoudsboekjes zijn geprint in het venster met de merknamen van de auto's, de onderhoudsactiviteiten van de garage en de glasreparaties met de namen van de glasreparatiebedrijven.
 
+
 ## Ondersteunende Informatie
-Werk in deze opdracht eerst het eenvoudige uit. Schrijf de code voor een garage, auto en het onderhoudsboekje. 
+Probeer eerst zelf en zonder de volgende ondersteunende informatie de opdracht uit te voeren.
+Werk in deze opdracht eerst het eenvoudige uit. Schrijf de code voor het onderhoudsboekje, dan de auto en het onderhoud van de garage en print daarna het resultaat van een onderhoudsbeurt. 
 
 Implementatie onderhoudsboekje:
-Een onderhoudsboekje kan bijvoorbeeld met een method een melding registreren en met een property alle meldingen (inclusief het merk van de auto) onder elkaar als één string terug geven. 
+Een onderhoudsboekje kan bijvoorbeeld met een method een melding registreren en met een property alle meldingen (inclusief het merk van de auto) onder elkaar als één string teruggeven. 
 
 Implementatie auto:
 Een auto hoeft alleen een merk en een onderhoudsboekje als property te krijgen. 
@@ -52,14 +54,17 @@ Een garage hoeft (om het eenvoudig te houden) voor maar één auto tegelijkertij
 
 De tot nu toe geschreven code en de klassen kunnen al gebruikt worden. Schrijf de code om de auto's en de garage aan te maken. Geef de auto's een onderhoudsbeurt en print daarna de onderhoudsboekjes in het scherm.
 
-Wanneer het eerste gedeelte correct in het verste weergegeven wordt, kan verder gegaan worden met het implementeren van de onderhoudsactiviteit 'sterretje in ruit-service'.
+Wanneer de onderhoudswerkzaamheden van de drie auto's correct in het venster weergegeven wordt, kan verder gegaan worden met het implementeren van de onderhoudsactiviteit 'sterretje in ruit-service'.
 
 Implementatie glasreparatiebedrijf:
 Een glasreparatiebedrijf kan netzoals een garage een methode krijgen waarmee een auto als parameter opgenomen is. In deze methode schrijft het glasreparatiebedrijf de onderhoudsactiviteit met de naam van het glasreparatiebedrijf in het onderhoudsboekje.
 
 Implementatie delegate
-Voor het delegeren van de 'sterretje in ruit-service' onderhoudsactiviteit door de garage naar het glasreparatiebedrijf, zal de garage de methode van het glasreparatiebedrijf moeten aanspreken. Daarvoor zal deze methode eerst doorgegeven moeten worden aan de garage. Dat kan als parameter, een parameter van het type delegate. Daarna kan de garage de delegate uitvoeren, waardoor de methode van het glasreparatiebedrijf aangesproken wordt. Maak daarvoor wel eerst een delegate definitie aan, die overeenkomt met de signatuur van de methode. De signature geldt als de communicatie afspraak tussen de twee objecten garage en glasreparatiebedrijf. Het return type en de parameters van de delegate definitie dienen overeen te komen met de methode van het glasreparatiebedrijf waarmee de glasreparatie uitgevoerd wordt. Gebruik de delegate definitie als type voor de parameter.
+Voor het delegeren van de 'sterretje in ruit-service' onderhoudsactiviteit door de garage naar het glasreparatiebedrijf, zal de garage de methode van het glasreparatiebedrijf moeten aanspreken. Daarvoor zal deze methode eerst doorgegeven moeten worden aan de garage. Dat kan als parameter, een parameter van het type delegate. Daarna kan de garage de delegate uitvoeren, waardoor de methode van het glasreparatiebedrijf aangesproken wordt. Maak daarvoor wel eerst een delegate definitie aan, die overeenkomt met de signatuur van de methode. De signature geldt als de communicatie afspraak tussen de twee objecten garage en glasreparatiebedrijf. Het return type en de parameters van de delegate definitie dienen overeen te komen met de methode van het glasreparatiebedrijf waarmee de glasreparatie uitgevoerd wordt. Gebruik de delegate definitie als type voor de parameter. 
 
+In plaats van een parameter voor de methode waarmee het onderhoud uitgevoerd wordt kan een ook een property in de garage klasse geïmplementeerd worden.
+
+De uitwerking staat op GitHub onder de naam: Uitwerking_CarServicing
 
 
 
