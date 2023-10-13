@@ -49,7 +49,7 @@ In deze opdracht implementeer je een klassenstructuur voor ons zonnestelsel. Daa
 
 ## Ondersteunende Informatie
 
-Gebruik de informatie uit de volgende afbeelding om het zonnestelsel met planeten en manen aan te maken. Maak een klasse aan voor de zon(en), planeten en manen. De manen hoeven niet met gegevens (en properties) gevuld te worden. Een maan kan bij een planeet horen en een planeet kan een collectie van manen hebben. Gebruik de gegevens uit de afbeelding.
+Gebruik de informatie uit de volgende afbeelding om het zonnestelsel met planeten en manen aan te maken. Maak een klasse aan voor de zon, planeten en manen. De manen hoeven niet met gegevens (properties) gevuld te worden. Een maan kan bij een planeet horen en een planeet kan een collectie van manen hebben. Gebruik de gegevens uit de afbeelding.
 
 ![afbeeldingen en gegevens van de planeten uit ons zonnestelsel](SolarSystem.png)
 
