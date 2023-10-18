@@ -48,7 +48,7 @@ public class Klantbeheerder
         }
     }
 
-    public List<Klant> ZoekKlant(Func<Klant, bool> criteria)
+    public List<Klant> ZoekKlant(Predicate<Klant> criteria)
     {
         // Zoek klanten op basis van het opgegeven criterium
         return klanten.FindAll(criteria);
