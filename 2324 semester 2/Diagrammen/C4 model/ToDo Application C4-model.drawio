@@ -1,1 +1,207 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T14:28:14.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="k7CbcDuU62TJ4hPG2MZM" version="21.0.6" type="device" pages="6"><diagram name="Systeem Context" id="gP57qJq02lwSq2uci3iL">7VdLb+M4DP41ObbwI06a49TJtIfZQYEUmJ25KbZia2qbXll5uL9+KZl+Rsmg2D0sFhO0ifWJpETqE0nP/DA/P0lWpn9AzLOZ58Tnmb+eed5qtcBvDdQNECz9BkikiBvI7YGteOcEOoQeRMyrkaACyJQox2AERcEjNcKYlHAai+0hG69asoRfANuIZZfoNxGrtEEfvGWPP3ORpO3K7mLVzOSsFSZPqpTFcBpA/mbmhxJANU/5OeSZjl0bl0bv85XZbmOSF8qiALufOh4okbGIp+g3l5OQzb+ynNx8hTW06GtdErqFvTrhAghv60rxvBVZ8yqSolQCirFkpcW0nHMEkPiTcr2HHU857lPDTH8r9qZH2ljGdsgYY2TmLTJ05XEPhVaqVE2nsPjrAO3EXWU48gkF3EV57ifxKaFfY2XXAwG56gXtJIZpN1VArFl5DMfi2EFBY8xECI0F64HuUK7dgrxl7KPeure8JSsRZBj2oZWZ50fmY9MNxkc5io8tFlM3vQEhF+Khfg5fD6swOG5+vMvX6lzceR3ROwL3jnoSDkXMtb6L5k6pUHxbIlsROGE2QSxVeUbThiiPLHpLjFpInhZQcO2/yLKwc953nYX76FBcBvjefBBnmUg0dyO8PVxqQEaUfVytVykJb3yg6awDZ6X3kXPFNrFQtC3kvHhnO+OSVixBFMpctEDzxbnXQQ0d86/5EhrQhi0vQVePWgtj0IYtA5tJ17L2FPMsoNWkZW1nskn8a7kxzE6UdY5cKn4eQMSOJw4YWVmjCM16K8qcVDr8tiac+kTszQlLh0m4TbmMEl7S2e7zIz4QJdshZUx7urWym0rZkWUHYjQlNoexIqfHZryXgFSnnDe4AjzGckNDkCqFBAqWbXr0sb8kml69zBeAkjj4kytVE3vZQcH44uAJyPpPrY8HR8PvZM4M1ufRqB6OXrgUGDt9RQx49VwrOMiI3wjWnKo3kwlXv0oZGLZ4VJivsuQOqbea0yYkz5gSx3HttrGAzL3oy9rbCpZjxnnLCZGazZNWz6VPUrJ6IEY54Oo6c3eyzmpS6z8mjw/NDiba7XZgv6+4mk3J38XSdh8+1j488Z08iDdkyUUPgQSqoLjaOAw0qTdoOoaukfjdI/zfe4T5zR5hkMj0am2N1uOYVWmXGE33UI27h0lT4Dz4n5eBtbgvfDcIb7QL2LwbQufnRL/m3Efz+9IQ27P1EpMW4aIluFbo/xM13ZTvaVfzL5Rzf5LE5pZq7tiq+cM/ruY47N+zmtzXv6z6m78B</diagram><diagram id="QMMT807Xaqbde3HfD42s" name="Container Diagram">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</diagram><diagram id="qdu6Us3kAj6ullenG_oH" name="Component Diagram Desktop Applicatie">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</diagram><diagram name="Component Diagram Console Applicatie" id="Me82aLVB4yopHppHyt9t">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</diagram><diagram id="WydX3jasvBXPl5aoQm4a" name="Schermontwerpen">7Vrbcps6FP0aPyYDyPjyGCc5PQ89TabptH07o4AwqgVihHzL11eAuElgx47BbsfOTGy2hJC01tLe2mgA7oPNJwYj/z/qIjKwDHczAA8Dy5pOR+J/YthmBnsMMsOcYTczmaXhBb8haTSkdYldFNcqckoJx1Hd6NAwRA6v2SBjdF2v5lFSf2oE50gzvDiQ6NYf2OV+Zp1Y49L+L8JzP3+yOZpmJQHMK8uRxD506bpiAo8DcM8o5dmvYHOPSDJ3+bxk9/3TUlp0jKGQv+eG//FP73n14/Pb44P9tH1b2bMnciNbWUGylAP+Rh+osNxFEcEO5JiGsvt8m89JzBldFNNhDsCsGJshLlwY+8iVF5DgeSh+O6KXiAmDzwNS3hUlTQabecKd24A6i2V0K6DkEIeIxbdrHKbtFs0Q5InBzlaIcdE7cifNnEZJexF0cDj/nNZ5mCSWtKf3lFBmpX0HhjFxPK9eBLIiZ5j8iSJPdCAtyOyj9CPsgejVN7RJZzurJflqjsU1ga+IzKCzmDO6DN28gZCGosps7WOOXkQHk/prMVxh0xHM4RDDQ5uKSSL6CdEAcbYVVfLSnF1b5XpdktUeSZtfISoYSyOUApkXbZccEj8kjQ6g1EijVN8E8igL4lvG0vVgxiRIRh30DNtp+knQxIRU7F76ORFGtoLRWMfInDRhZHSF0ViXPVyg3pV+FFB1cRZ6rsrR2gEoQ7GoVR3S+6S5k+v7ubAP61y3DBGx6K7q3qcJf/mIZ4pFDwtu3Sh3UM+LEdf4UnTseApNGigEF8JinodFMHT8BGydCC2rueJS6s7D/uuZAoy+mDJtY8qZHMOVKYcxxe6NKXnQr1MFXI5rOhlrFA/lugipkWkZP/7dFFOD0Q4p1rDjySg2vK5GfwJVpv1RxdKpIuaRnJkneQssm9qcAF/lTO+ijo75wZsZMNq/mbEb0Dcn7UB/aCtjAg2l8/qK1o2H4kMO1jbYuS86AbZDcz+21rBXcIcauE9B7PgM/1qJibkqsYKWZdhnVqJ9VWJHSmzCtlGJI7srcPW03iMOXRfyZXCVYRWqybkdop7cu8rwRDJswLZnh6in3Z4Ri2n/b2kuWoTAPLcv1JNeVxGeRoRN2PYrQktPU71w4QjjqwarONlndoTWpcSjDg1e6YxudiqlLRuoiK+oJt9nQ+i6aT395XQTzmqSSddyF4ptYEKjYi2jKyqc/6W0mko2jR2rskaTUwpVhWdovBMe9ZXR6eDRQ9anKCYQtkU1+czg0EcMq/6ttAoEXIxKKZQlPaOtvjgw92lUjjipl+Vzi1NGH0zoWkdldKc76HBsQlc+fKKwqruErqUHZd8RW+NfLmKthx8un2oJIrMl52IPoC4vfxrjNjUOVfg3HnfGv5u87e4JCPTA8QtGy3XfviiJJY5iTOGgVMYojqzplJ1ScgmrWvOhqwNZ9SHPByyNEXdeTJZiInrf0b+mjIjl984opI0W9SA0ayinSXoqsiEEfS+VOjpBqUVDw+6iIXFZnvfNFpXy0DR4/A0=</diagram><diagram id="28flR45IsNVSgT9lKOzv" name="Database Deployment">tZRBT4MwFIB/Dcclg7ohR4XJpvHEEuexo09aQymWMsBfL9gyIGzJDnoh5Xuv7Xtfm1rI53UocU5fBYHUcpaktlBgOY7nrdtvBxoNVi7SIJGMaGQPIGLfYODS0JIRKCaJSohUsXwKY5FlEKsJw1KKapr2IdLprjlOYAaiGKdz+saIopreO+7At8AS2u9srz0d4bhPNp0UFBNRjRDaWMiXQig94rUPaeeu96LnPV2JnguTkKlbJiwPz3XRYP6Ft1nooki8PIjFSq9ywmlpGvYlYAUtC7DCR1x0w70IRHA0baimdyNFmRHolrct9FhRpiDKcdxFq/YytIwqnprwvFzTwQmkgnqETPkhCA5KNm2KiTqeUdn0sk351XAyZ910dCprw7C5DMl56cFXOzDKLusj6I5RN9w1n1SSjNeH8j1a2Nf17fEx7d3tFPDiL/TNXF0werM+Z7X8N33t73Czf2Oj5wFtfgA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-12-08T14:43:22.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="OJp_ECo7TU1EvaMOrSHY" version="22.1.7" type="device" pages="4">
+  <diagram name="Systeem Context" id="gP57qJq02lwSq2uci3iL">
+    <mxGraphModel dx="1379" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object placeholders="1" c4Name="ToDo" c4Type="Software System" c4Description="Softwaresysteem voor het beheren van taken" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="6i8yHCTu9C5vEZzrTsxn-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="290" y="310" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="6i8yHCTu9C5vEZzrTsxn-3" value="taken aanmaken en afronden" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6i8yHCTu9C5vEZzrTsxn-4" target="6i8yHCTu9C5vEZzrTsxn-2" edge="1">
+          <mxGeometry x="-0.2941" relative="1" as="geometry">
+            <mxPoint x="570" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="290" />
+              <mxPoint x="410" y="290" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Gebruiker" c4Type="Person" c4Description="Gebruiker van het systeem" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="6i8yHCTu9C5vEZzrTsxn-4">
+          <mxCell style="html=1;fontSize=11;dashed=0;whitespace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="310" y="40" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QMMT807Xaqbde3HfD42s" name="Container Diagram">
+    <mxGraphModel dx="1379" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object placeholders="1" c4Name="ToDo" c4Type="SystemScopeBoundary" c4Application="Software System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="jA6bDuJOhWUHP-LeDnIb-1">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="20" y="410" width="780" height="380" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Desktop Application" c4Type="Container" c4Technology="WPF/MAUI, .NET, C#" c4Description="Applicatie met een rijke grafische interface om de taken aan te maken en af te ronden." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="jA6bDuJOhWUHP-LeDnIb-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="160" y="450" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Console Application" c4Type="Container" c4Technology=".NET, C#" c4Description="Applicatie met een primitieve grafische interface om de taken aan te maken en af te ronden." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="jA6bDuJOhWUHP-LeDnIb-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="480" y="450" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Database" c4Container="Container" c4Technology="SQL-Server/ SQLite" c4Description="Database voor het opslaan van de taken" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="jA6bDuJOhWUHP-LeDnIb-6">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="160" y="630" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="jA6bDuJOhWUHP-LeDnIb-7" value="taken aanmaken en afronden" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jA6bDuJOhWUHP-LeDnIb-9" target="jA6bDuJOhWUHP-LeDnIb-3" edge="1">
+          <mxGeometry x="-0.6361" y="22" relative="1" as="geometry">
+            <mxPoint x="360" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="380" />
+              <mxPoint x="280" y="380" />
+            </Array>
+            <mxPoint x="20" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Gebruiker" c4Type="Person" c4Description="Gebruiker van het systeem" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="jA6bDuJOhWUHP-LeDnIb-9">
+          <mxCell style="html=1;fontSize=11;dashed=0;whitespace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="340" y="170" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="R8-CH4FTyk3YAZI2SInh-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="jA6bDuJOhWUHP-LeDnIb-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="440" as="targetPoint" />
+            <mxPoint x="440" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="460" y="350" />
+              <mxPoint x="460" y="380" />
+              <mxPoint x="600" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R8-CH4FTyk3YAZI2SInh-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="jA6bDuJOhWUHP-LeDnIb-3" target="jA6bDuJOhWUHP-LeDnIb-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="560" as="sourcePoint" />
+            <mxPoint x="400" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qdu6Us3kAj6ullenG_oH" name="Component Diagram Desktop Applicatie">
+    <mxGraphModel dx="1622" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="" placeholders="1" instruction="edit data of the lower shape within the group" id="0_96DEolHEjOqy0A0ZcH-1">
+          <mxCell style="group;resizable=0;rotatable=0;" parent="1" vertex="1" connectable="0">
+            <mxGeometry x="160" y="110" width="160" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;[Person]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal ; font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: x-small&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font size=&quot;1&quot;&gt;%description%&lt;/font&gt;&lt;/div&gt;" name="Gebruiker" description="Gebruiker van het Systeem" placeholders="1" id="0_96DEolHEjOqy0A0ZcH-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00315C;fillColor=#004179;fontColor=#000000;arcSize=31;rotatable=0;strokeWidth=2;metaEdit=1;" parent="0_96DEolHEjOqy0A0ZcH-1" vertex="1">
+            <mxGeometry y="70" width="160" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="0_96DEolHEjOqy0A0ZcH-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#00315C;fillColor=#004179;fontColor=#000000;rotatable=0;strokeWidth=2;" parent="0_96DEolHEjOqy0A0ZcH-1" vertex="1">
+          <mxGeometry x="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;[Container]&lt;/font&gt;" placeholders="1" name="Desktop Application" id="0_96DEolHEjOqy0A0ZcH-4">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#828282;fillColor=none;fontColor=#404040;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=bottom;dashed=1;strokeWidth=2;perimeterSpacing=0;spacing=4;spacingTop=0;fontSize=10;container=0;rotatable=0;metaEdit=1;allowArrows=0;" parent="1" vertex="1">
+            <mxGeometry x="80" y="320" width="320" height="540" as="geometry">
+              <mxRectangle x="560" y="40" width="110" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="0_96DEolHEjOqy0A0ZcH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0_96DEolHEjOqy0A0ZcH-6" target="0_96DEolHEjOqy0A0ZcH-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Main" c4Type="Component" c4Technology="Window" c4Description="Biedt een grafische interface om taken aan te maken en af te ronden" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="0_96DEolHEjOqy0A0ZcH-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="120" y="360" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="0_96DEolHEjOqy0A0ZcH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0_96DEolHEjOqy0A0ZcH-2" target="0_96DEolHEjOqy0A0ZcH-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0_96DEolHEjOqy0A0ZcH-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0_96DEolHEjOqy0A0ZcH-9" target="0_96DEolHEjOqy0A0ZcH-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Service" c4Type="Component" c4Technology="Class, C#" c4Description="Biedt validatie functionaliteit en communicatie met de repository   " label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="0_96DEolHEjOqy0A0ZcH-9">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="120" y="525" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="0_96DEolHEjOqy0A0ZcH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0_96DEolHEjOqy0A0ZcH-11" target="WipBYr_MEciiosy9VrZD-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Repository" c4Type="Component" c4Technology="C#, Class, SQL" c4Description="Biedt toegang tot de onderliggende database om taken op te slaan en op te vragen." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="0_96DEolHEjOqy0A0ZcH-11">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="120" y="690" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Database" c4Container="Container" c4Technology="SQL-Server/ SQLite" c4Description="Database voor het opslaan van de taken" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WipBYr_MEciiosy9VrZD-1">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="120" y="920" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Component Diagram Console Applicatie" id="Me82aLVB4yopHppHyt9t">
+    <mxGraphModel dx="1379" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="nndc_TNkcE9IaKzRtLI8-0" />
+        <mxCell id="nndc_TNkcE9IaKzRtLI8-1" parent="nndc_TNkcE9IaKzRtLI8-0" />
+        <object label="" placeholders="1" instruction="edit data of the lower shape within the group" id="nndc_TNkcE9IaKzRtLI8-2">
+          <mxCell style="group;resizable=0;rotatable=0;" parent="nndc_TNkcE9IaKzRtLI8-1" vertex="1" connectable="0">
+            <mxGeometry x="160" y="110" width="160" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;[Person]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal ; font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: x-small&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font size=&quot;1&quot;&gt;%description%&lt;/font&gt;&lt;/div&gt;" name="Gebruiker" description="Gebruiker van het Systeem" placeholders="1" id="nndc_TNkcE9IaKzRtLI8-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00315C;fillColor=#004179;fontColor=#000000;arcSize=31;rotatable=0;strokeWidth=2;metaEdit=1;" parent="nndc_TNkcE9IaKzRtLI8-2" vertex="1">
+            <mxGeometry y="70" width="160" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nndc_TNkcE9IaKzRtLI8-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#00315C;fillColor=#004179;fontColor=#000000;rotatable=0;strokeWidth=2;" parent="nndc_TNkcE9IaKzRtLI8-2" vertex="1">
+          <mxGeometry x="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%name%&lt;/b&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;[Container]&lt;/font&gt;" placeholders="1" name="Console Application" id="nndc_TNkcE9IaKzRtLI8-5">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#828282;fillColor=none;fontColor=#404040;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=bottom;dashed=1;strokeWidth=2;perimeterSpacing=0;spacing=4;spacingTop=0;fontSize=10;container=0;rotatable=0;metaEdit=1;allowArrows=0;" parent="nndc_TNkcE9IaKzRtLI8-1" vertex="1">
+            <mxGeometry x="80" y="320" width="340" height="550" as="geometry">
+              <mxRectangle x="560" y="40" width="110" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="nndc_TNkcE9IaKzRtLI8-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="nndc_TNkcE9IaKzRtLI8-1" source="nndc_TNkcE9IaKzRtLI8-7" target="nndc_TNkcE9IaKzRtLI8-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Main" c4Type="Component" c4Technology="Console" c4Description="Biedt een primitieve grafische interface om taken aan te maken en af te ronden" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nndc_TNkcE9IaKzRtLI8-7">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="nndc_TNkcE9IaKzRtLI8-1" vertex="1">
+            <mxGeometry x="120" y="360" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nndc_TNkcE9IaKzRtLI8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nndc_TNkcE9IaKzRtLI8-1" source="nndc_TNkcE9IaKzRtLI8-3" target="nndc_TNkcE9IaKzRtLI8-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nndc_TNkcE9IaKzRtLI8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="nndc_TNkcE9IaKzRtLI8-1" source="nndc_TNkcE9IaKzRtLI8-10" target="nndc_TNkcE9IaKzRtLI8-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Service" c4Type="Component" c4Technology="Class, C#" c4Description="Biedt validatie functionaliteit en communicatie met de repository   " label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nndc_TNkcE9IaKzRtLI8-10">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="nndc_TNkcE9IaKzRtLI8-1" vertex="1">
+            <mxGeometry x="120" y="525" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Repository" c4Type="Component" c4Technology="C#, Class, SQL" c4Description="Biedt toegang tot een in-memory lijst om taken tijdedlijk op te slaan en op te vragen." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nndc_TNkcE9IaKzRtLI8-12">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="nndc_TNkcE9IaKzRtLI8-1" vertex="1">
+            <mxGeometry x="120" y="710" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
