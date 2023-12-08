@@ -14,7 +14,7 @@ namespace ToDo.DataAccess.SqlServer
         public ICollection<ToDoItem> GetAll()
         {
             var toDoItems = new List<ToDoItem>();
-            string sql = "SELECT Id, Title, Description, Due, State FROM ToDoItems;";
+            string sql = "SELECT Id, Title, Description, Due, State, AssignedTo FROM ToDoItems;";
 
             using (var connection = new SqlConnection(ConnectionString))
             {
@@ -31,6 +31,7 @@ namespace ToDo.DataAccess.SqlServer
                         item.Description = reader.GetString(2);
                         item.Due = reader.GetDateTime(3);
                         item.State = (ToDoState)reader.GetInt32(4);
+                        item.AssignedTo = reader.GetString(5);
                         toDoItems.Add(item);
                     }
                     connection.Close();
@@ -41,7 +42,7 @@ namespace ToDo.DataAccess.SqlServer
 
         public int Insert(ToDoItem newToDoItem)
         {
-            string sql = "INSERT INTO ToDoItems (Title, Description, Due, State) VALUES (@Title, @Description, @Due, @State);";
+            string sql = "INSERT INTO ToDoItems (Title, Description, Due, State, AssignedTo) VALUES (@Title, @Description, @Due, @State, @AssignedTo);";
             int recordsAffected = 0;
 
             using (var connection = new SqlConnection(ConnectionString)) {
@@ -51,6 +52,7 @@ namespace ToDo.DataAccess.SqlServer
                     command.Parameters.AddWithValue("Description", newToDoItem.Description);
                     command.Parameters.AddWithValue("Due", newToDoItem.Due);
                     command.Parameters.AddWithValue("State", (int)newToDoItem.State);
+                    command.Parameters.AddWithValue("AssignedTo", newToDoItem.AssignedTo);
 
                     connection.Open();
                     recordsAffected = command.ExecuteNonQuery();

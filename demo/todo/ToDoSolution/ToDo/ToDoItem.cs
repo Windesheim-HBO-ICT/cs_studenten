@@ -10,6 +10,7 @@
 
         public DateTime? Due { get; set; }
 
+        public string AssignedTo { get; set; }
         public ToDoState State { get; set; }
 
         public ToDoItem() :this("New ToDo Item"){}

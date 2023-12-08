@@ -14,6 +14,7 @@ CREATE TABLE [dbo].[ToDoItems]
 	[Id] INT IDENTITY (1, 1) NOT NULL,
     [Title] VARCHAR(50) NOT NULL, 
     [Description] VARCHAR(200) NULL, 
+    [AssignedTo] VARCHAR(50) NOT NULL, 
     [Due] DATETIME NULL, 
     [State] INT NULL
 )

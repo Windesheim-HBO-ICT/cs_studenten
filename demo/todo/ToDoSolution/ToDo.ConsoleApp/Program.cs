@@ -21,6 +21,10 @@ if (answer == 'y')
     newToDoItem.Description = Console.ReadLine();
     Console.Clear();
 
+    Console.Write("Please enter the name of who performs the task: ");
+    newToDoItem.AssignedTo = Console.ReadLine();
+    Console.Clear();
+
     Console.Write("Please enter a due date: ");
     DateTime due;
     if (DateTime.TryParse(Console.ReadLine(), out due)) 

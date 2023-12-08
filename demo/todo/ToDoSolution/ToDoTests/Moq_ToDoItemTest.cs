@@ -46,7 +46,7 @@ namespace ToDoTests
 
 
         [Fact]
-        public void DuedDue_ThrowsException()
+        public void OverdueDue_ThrowsException()
         {  
             var toDoItem = new ToDoItem("Dued") { Due = DateTime.Now.AddDays(-1) };
             ToDoService service = new ToDoService(itemRepositoryMock);

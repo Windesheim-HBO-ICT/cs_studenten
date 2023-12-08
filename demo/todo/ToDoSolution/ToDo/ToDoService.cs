@@ -39,6 +39,9 @@ namespace ToDo
             if (string.IsNullOrWhiteSpace(toDoItem.Title))
                 throw new InvalidOperationException("Todo-items require a title.");
 
+            if (string.IsNullOrWhiteSpace(toDoItem.AssignedTo))
+                throw new InvalidOperationException("Todo-items need to be assigned to someone.");
+
             return true;
         }
     }

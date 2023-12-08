@@ -1,0 +1,12 @@
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo\bin\Debug\net6.0\ToDo.deps.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo\bin\Debug\net6.0\ToDo.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo\bin\Debug\net6.0\ToDo.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo\obj\Debug\net6.0\ToDo.csproj.AssemblyReference.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo\obj\Debug\net6.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo\obj\Debug\net6.0\ToDo.AssemblyInfoInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo\obj\Debug\net6.0\ToDo.AssemblyInfo.cs
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo\obj\Debug\net6.0\ToDo.csproj.CoreCompileInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo\obj\Debug\net6.0\ToDo.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo\obj\Debug\net6.0\refint\ToDo.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo\obj\Debug\net6.0\ToDo.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo\obj\Debug\net6.0\ref\ToDo.dll
