@@ -1,2 +1,173 @@
 .idea
 .git
+
+# Visual Studio Code
+.vscode/
+*.vscodeignore
+
+# Visual Studio files
+*/*.pdb
+*/*.exe
+*/*.obj
+*/*.user
+*/*.aps
+*/*.pch
+*/*.vspscc
+*/*_i.c
+*/*_p.c
+*/*.ncb
+*/*.suo
+*/*.tlb
+*/*.tlh
+*/*.bak
+*/*.[Cc]ache/
+*/*.ilk
+*/*.log
+*/*.lib
+*/*.sbr
+*/*.sdf
+*/ipch/
+*/[Bb]in/
+*/[Dd]ebug*/
+*/[Rr]elease*/
+*/_ReSharper*/
+*/[Tt]est[Rr]esult*/
+*/[Bb]uild[Ll]og.*
+*/*.[Pp]ublish.xml
+*/*.[Pp]ublish.ps1
+*/*.[Pp]ublish.targets
+
+# Build results
+*/[Dd]ebug/
+*/[Rr]elease/
+*/x64/
+*/build/
+*/[Bb]in/
+
+# NuGet Packages Directory
+## TODO: If you have NuGet Package Restore enabled, uncomment the next line 
+#packages/
+
+# MSTest test Results Files
+*/[Tt]est[Rr]esult*/
+
+#NUNIT 
+*/*.VisualState.xml
+
+# Build Results of an ATL Project
+*/[Dd]ebugPS/
+*/[Rr]eleasePS/
+*/dlldata.c
+
+# .NET Core 
+*/project.lock.json
+*/project.fragment.lock.json
+*/artifacts/
+
+# StyleCop 
+*/StyleCopReport.xml
+
+# Files built by Visual Studio
+*/*_i.c 
+*/*_p.c 
+*/*_h.h 
+*/*.ilk 
+*/*.meta 
+*/*.obj 
+*/*.iobj 
+*/*.pch 
+*/*.pdb 
+*/*.ipdb 
+*/*.pgc 
+*/*.pgd 
+*/*.rsp 
+*/*.sbr 
+*/*.tlb 
+*/*.tli 
+*/*.tlh 
+*/*.tmp 
+*/*.tmp_proj 
+*/*_wpftmp.csproj 
+*/*_wpftmp.sln 
+
+# Files built by MSBuild (Visual Studio)
+*/AppxManifest.xml  
+*/BundleAssemblies/  
+*/ReleaseNotes.txt  
+*/_build/  
+*/bin/  
+*/obj/  
+*/TestResults/  
+*/[Bb]in/  
+*/[Dd]ebug*/  
+*/[Rr]elease*/  
+*/_ReSharper*/  
+*/[Tt]est[Rr]esult*/  
+*/packages/  
+*/artifacts/  
+
+# Chutzpah Test files  
+*/_Chutzpah*.*  
+
+# Visual C++ cache files  
+*/ipch/  
+
+# ReSharper is a .NET coding add-in  
+*/_ReSharper*/  
+
+# NCrunch  
+*/_NCrunch_*.*  
+
+# Installshield output folder   
+*/[Ee]xpress/  
+
+# DocProject is a documentation generator add-in  
+*/DocProject/buildhelp/  
+*/DocProject/Help/*.HxT  
+*/DocProject/Help/*.HxC  
+*/DocProject/Help/*.hhc  
+*/DocProject/Help/*.hhk  
+*/DocProject/Help/*.hhp  
+*/DocProject/Help/*.hpp  
+
+# Click-Once directory  
+*/publish/  
+
+# Publish Web Output   
+*/*.[Pp]ublish.xml  
+*/*.[Pp]ublish.htm*  
+**/[Aa]pp_Data/*  
+
+# Microsoft Azure Build Output   
+*/csx   
+*/*_bin_deployableAssemblies   
+*/*_bin_deployableAssemblies/**   
+*/AzureWebJobsDashboard   
+*/AzureWebJobsDashboard/**   
+*/AzureWebJobsStorage   
+*/AzureWebJobsStorage/**   
+*/node_modules   
+*/bower_components   
+*/packages   
+
+# Compiled Object files   
+*/.obj   
+*/.ipdb   
+*/.pdb   
+*/.dump   
+
+# Compiled Dynamic libraries   
+*/.so   
+*/.dylib   
+
+# Compiled Static libraries   
+*/.a   
+
+# Executables   
+*/.exe   
+*/.out   
+*/.app   
+
+# Debug files   
+*/.dSYM/   
+
