@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ToDo.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "ToDo": "1.0.0",
+          "ToDo.DataAccess.InMemory": "1.0.0"
+        },
+        "runtime": {
+          "ToDo.ConsoleApp.dll": {}
+        }
+      },
+      "ToDo/1.0.0": {
+        "runtime": {
+          "ToDo.dll": {}
+        }
+      },
+      "ToDo.DataAccess.InMemory/1.0.0": {
+        "dependencies": {
+          "ToDo": "1.0.0"
+        },
+        "runtime": {
+          "ToDo.DataAccess.InMemory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToDo.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToDo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToDo.DataAccess.InMemory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

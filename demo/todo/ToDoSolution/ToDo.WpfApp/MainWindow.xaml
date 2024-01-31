@@ -8,16 +8,17 @@
         Title="ToDo Application" Height="450" Width="800">
     <Grid Margin="10">
         <Grid.RowDefinitions>
-            <RowDefinition />
-            <RowDefinition />
-            <RowDefinition />
+            <RowDefinition /><RowDefinition />
+            <RowDefinition /><RowDefinition />
+            <RowDefinition /><RowDefinition />
+            <RowDefinition /><RowDefinition />
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition />
             <ColumnDefinition Width="150"/>
             <ColumnDefinition />
         </Grid.ColumnDefinitions>
-        <StackPanel Grid.Column="0" Grid.RowSpan="3"><Label Content="Taken" HorizontalAlignment="Center"/><ListBox x:Name="listBox" d:ItemsSource="{d:SampleData ItemCount=5}"/></StackPanel>
+        <StackPanel Grid.Column="0" Grid.RowSpan="6"><Label Content="Taken" HorizontalAlignment="Center"/><ListBox x:Name="listBox" d:ItemsSource="{d:SampleData ItemCount=5}"/></StackPanel>
         
 
     </Grid>

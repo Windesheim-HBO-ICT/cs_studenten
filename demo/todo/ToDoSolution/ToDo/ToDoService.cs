@@ -23,10 +23,6 @@ namespace ToDo
             {
                 _repository.Insert(newToDoItem);
             }
-            else 
-            {
-                throw new InvalidOperationException();
-            }
         }
 
         public ICollection<ToDoItem> GetAll() 

@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,11 +30,11 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo.DataAccess.SqlServer\\ToDo.DataAccess.SqlServer.csproj": {
-                "projectPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo.DataAccess.SqlServer\\ToDo.DataAccess.SqlServer.csproj"
+              "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo.DataAccess.InMemory\\ToDo.DataAccess.InMemory.csproj": {
+                "projectPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo.DataAccess.InMemory\\ToDo.DataAccess.InMemory.csproj"
               },
               "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo\\ToDo.csproj": {
                 "projectPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo\\ToDo.csproj"
@@ -49,8 +49,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -67,18 +67,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo.DataAccess.SqlServer\\ToDo.DataAccess.SqlServer.csproj": {
+    "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo.DataAccess.InMemory\\ToDo.DataAccess.InMemory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo.DataAccess.SqlServer\\ToDo.DataAccess.SqlServer.csproj",
-        "projectName": "ToDo.DataAccess.SqlServer",
-        "projectPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo.DataAccess.SqlServer\\ToDo.DataAccess.SqlServer.csproj",
+        "projectUniqueName": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo.DataAccess.InMemory\\ToDo.DataAccess.InMemory.csproj",
+        "projectName": "ToDo.DataAccess.InMemory",
+        "projectPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo.DataAccess.InMemory\\ToDo.DataAccess.InMemory.csproj",
         "packagesPath": "C:\\Users\\johnb\\.nuget\\packages\\",
-        "outputPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo.DataAccess.SqlServer\\obj\\",
+        "outputPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo.DataAccess.InMemory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -89,7 +89,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -97,8 +97,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
               "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo\\ToDo.csproj": {
                 "projectPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo\\ToDo.csproj"
@@ -113,14 +113,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.Data.SqlClient": {
-              "target": "Package",
-              "version": "[5.1.1, )"
-            }
-          },
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -137,7 +131,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -159,7 +153,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -167,8 +161,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -179,8 +173,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -197,7 +191,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -19,7 +19,8 @@
         public ToDoItem(string title, ToDoState state)
         {
             Title= title;
-            State = state;                
+            State = state;
+            AssignedTo = string.Empty;
         }
     }
 

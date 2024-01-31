@@ -1,8 +1,7 @@
 ﻿using ToDo;
-using ToDo.DataAccess.SqlServer;
+using ToDo.DataAccess.InMemory;
 
-var todoDataAccess = new ToDoItemRepository(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ToDoDatabase;Integrated Security=True;");
-
+var todoDataAccess = new ToDoRepository();
 var todoService = new ToDoService(todoDataAccess);
 
 Console.WriteLine("Do you want to create a new todo item? (y/n)");
@@ -21,7 +20,7 @@ if (answer == 'y')
     newToDoItem.Description = Console.ReadLine();
     Console.Clear();
 
-    Console.Write("Please enter the name of who performs the task: ");
+    Console.Write("Please enter the name to assign this item to do: ");
     newToDoItem.AssignedTo = Console.ReadLine();
     Console.Clear();
 
@@ -33,16 +32,17 @@ if (answer == 'y')
     }
     Console.Clear();
 
-
     todoService.CreateNewToDoItem(newToDoItem);
     Console.WriteLine($"New todo-item {newToDoItem.Title} succesfully saved.\n\n");
 
-    var todoItems = todoService.GetAll();
-    Console.WriteLine("All ToDo items:");
-    foreach (var todoItem in todoItems)
-    {
-        Console.WriteLine($"\t{todoItem.Title}");
-    }
+
+}
+
+var todoItems = todoService.GetAll();
+Console.WriteLine("All ToDo items:");
+foreach (var todoItem in todoItems)
+{
+    Console.WriteLine($"\t{todoItem.Title}");
 }
 
 Console.WriteLine("\n\nPress <enter> to exit..\n\n");

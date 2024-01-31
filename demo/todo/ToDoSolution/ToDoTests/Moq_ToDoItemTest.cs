@@ -27,15 +27,15 @@ namespace ToDoTests
             Mock<IToDoItemRepository> mock = new Mock<IToDoItemRepository>();
 
             //Mocking IToDoItemRepository.Insert method
-            mock.Setup(mock => mock.Insert(It.IsAny<ToDoItem>())).Returns((ToDoItem toDoItem) =>
+            mock.Setup<int>(mock => mock.Insert(It.IsAny<ToDoItem>())).Returns((ToDoItem toDoItem) =>
             {
-                toDoItem.Id = toDoItems.Count + 1;
+                toDoItem.Id = toDoItems.Max(i => i.Id) + 1;
                 toDoItems.Add(toDoItem);
-                return true;
+                return toDoItem.Id;
             });
 
             //Mocking IToDoItemRepository.GetAll() method
-            mock.Setup(mock => mock.GetAll()).Returns((ICollection<ToDoItem> collectionToDoItems) =>
+            mock.Setup<ICollection<ToDoItem>>(mock => mock.GetAll()).Returns(() =>
             {
                 return toDoItems;
             });

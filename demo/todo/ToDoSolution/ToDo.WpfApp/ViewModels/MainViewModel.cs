@@ -8,6 +8,12 @@ namespace ToDo.WpfApp.ViewModels
 {
     public class MainViewModel: BaseViewModel
     {
+        //Lijst van taken
+        //Actief ToDoItem
+
+        //Nieuw command
+        //Opslaan
+        //Delete Command
 
     }
 }

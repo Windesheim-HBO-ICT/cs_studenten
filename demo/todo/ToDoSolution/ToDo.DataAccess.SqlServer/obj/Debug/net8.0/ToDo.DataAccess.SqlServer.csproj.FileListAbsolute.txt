@@ -1,0 +1,16 @@
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.SqlServer\bin\Debug\net8.0\ToDo.DataAccess.SqlServer.deps.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.SqlServer\bin\Debug\net8.0\ToDo.DataAccess.SqlServer.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.SqlServer\bin\Debug\net8.0\ToDo.DataAccess.SqlServer.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.SqlServer\bin\Debug\net8.0\ToDo.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.SqlServer\bin\Debug\net8.0\ToDo.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.SqlServer\obj\Debug\net8.0\ToDo.DataAccess.SqlServer.csproj.AssemblyReference.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.SqlServer\obj\Debug\net8.0\ToDo.DataAccess.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.SqlServer\obj\Debug\net8.0\ToDo.DataAccess.SqlServer.AssemblyInfoInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.SqlServer\obj\Debug\net8.0\ToDo.DataAccess.SqlServer.AssemblyInfo.cs
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.SqlServer\obj\Debug\net8.0\ToDo.DataAccess.SqlServer.csproj.CoreCompileInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.SqlServer\obj\Debug\net8.0\ToDo.DataAccess.SqlServer.sourcelink.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.SqlServer\obj\Debug\net8.0\ToDo.DataAccess.SqlServer.csproj.CopyComplete
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.SqlServer\obj\Debug\net8.0\ToDo.DataAccess.SqlServer.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.SqlServer\obj\Debug\net8.0\refint\ToDo.DataAccess.SqlServer.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.SqlServer\obj\Debug\net8.0\ToDo.DataAccess.SqlServer.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.SqlServer\obj\Debug\net8.0\ref\ToDo.DataAccess.SqlServer.dll
