@@ -3,14 +3,14 @@
 **Complexiteit:** novice 
 
 ## Opdrachtbeschrijving  
-In deze opdracht ga je verder met Opdracht Emmer - deel 1, waarbij je nu testen gaat toevoegen en exceptions implementeren gaat.
+In deze opdracht ga je verder met Opdracht Emmer-deel 1, waarbij je nu testen gaat toevoegen en exceptions implementeren gaat.
 
 ## Functionele eisen
--	De functionele eisen uit Opdracht Emmer - deel 1 blijven van toepassing.
+-	De functionele eisen uit Opdracht Emmer-deel 1 blijven van toepassing.
 -	Voorkom dat een onjuiste capaciteit ingesteld kan worden.
 
 ## Non-functionele eisen
--	De non-functionele eisen uit Opdracht Emmer -deel 1 blijven van toepassing.
+-	De non-functionele eisen uit Opdracht Emmer-deel 1 blijven van toepassing.
 -	Genereer een foutmelding waarmee voorkomen wordt dat een onjuiste capaciteit ingesteld kan worden. 
 -	Schrijf een nieuwe klasse voor de exception. De exception toont de onjuiste en juiste waarde van de capaciteit in de Message property.
 
@@ -28,7 +28,7 @@ In het geval van een onjuiste situatie wordt een foutmelding gegeven. Een foutme
 `throw new System.DivideByZeroException();`
 Een veel voorkomend type is het InvalidOperationException en ArgumentOutOfRangeException. Je kunt ook overerven van deze typen en bijvoorbeeld NegativeAgeException maken en gebruiken, wanneer gepoogd wordt een leeftijd met een negatieve waarde te vullen.  
 
-Een Exception onderbreekt het uitvoeren van de normale flow van de applicatie en dient met een try-catch statement afgevangen te worden. Wanneer een exception niet door de applicatie afgevangen wordt dan wordt het uitvoeren van de applicatie onderbroken. De .NET runtime vangt dan de exception af waardoor het onderliggende besturingssysteem normaal blijft opereren.  
+Wanneer een exception optreedt, wordt het uitvoeren van de normale flow van de applicatie onderbroken. Daarom dienen exceptions met een try-catch statement afgevangen te worden. Wanneer een exception niet door de applicatie afgevangen wordt dan wordt het uitvoeren van de applicatie onderbroken. De .NET runtime vangt dan de exception af waardoor het onderliggende besturingssysteem normaal blijft opereren.  
 
 Om dit in werking te zien kun je een applicatie uitvoeren in de release modus en starten vanuit de bin/release map.
 Een exception is een uitzondering (letterlijke vertaling). Gebruik een exception nooit om de normale flow van een applicatie te bepalen. Je ontwikkeld code om het uitvoeren van exceptions te voorkomen en gebruikt exceptions om ongewenste situaties te voorkomen.

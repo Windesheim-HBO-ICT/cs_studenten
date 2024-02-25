@@ -1,0 +1,26 @@
+﻿
+
+Neem de requirements door en bekijk de gerealiseerde code in het project OO_EmployeeManager. Let op de testbaarheid van de applicatie.
+
+Geef daarna antwoord op de volgende vragen. 
+
+ - Welke acceptatiecriteria van de applicatie kan afzonderlijk getest worden? 
+		ANTWOORD: 
+			Tot op de kleinste onderdelen kan nu getest worden.
+			Er kan niet getest worden met andere gegevensbronnen.
+
+ - Volgens welke testmethode kunnen deze criteria getest worden?
+		ANTWOORD:
+			Unit test
+			Acceptatie test
+
+ - Aan welke van de Non-Functionele requirements wordt voldaan?
+		Antwoord:
+			aanpassingen, uitbreidingen en het vervangen van de klassen kan gedaan worden maar alleen door een volledige vervanging de applicatie
+			het is niet mogelijk om een onderdeel zoals de gebruikersinteractie of de gegevensopslag te vervangen 
+			
+			wanneer de salarisverhoging in een andere applicatie (Web/WPF/WinForms) gebruikt moet worden of de gegevens in een database opgeslagen moeten worden, 
+				dan kan deze oplossing alleen als een geheel hergebruikt worden. Dat komt doordat alle onderdelen in één bestand (*.exe/*.dll) zijn gecompileerd, en als een geheel geladen worden..
+
+
+Bespreek de antwoorden met anderen en kijk daarna naar de volgende projecten: '03 Cleaner Architecture'.

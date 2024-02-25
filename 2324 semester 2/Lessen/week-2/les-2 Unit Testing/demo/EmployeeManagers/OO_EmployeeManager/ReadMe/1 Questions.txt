@@ -1,0 +1,23 @@
+﻿
+
+Neem de requirements door en bekijk de gerealiseerde code in het project OO_EmployeeManager. Let op de testbaarheid van de applicatie.
+
+Beantwoord daarna de volgende vragen. 
+
+ - Welke acceptatiecriteria van de applicatie kan afzonderlijk getest worden? 
+		ANTWOORD: 
+			<vul hier in>
+			...
+
+ - Volgens welke testmethode kunnen deze criteria getest worden?
+		ANTWOORD:
+			<vul hier in>
+			...
+
+ - Aan welke van de Non-Functionele requirements wordt voldaan?
+		Antwoord:
+			<vul hier in>
+			...
+
+
+Wanneer je antwoorden hebt genoteerd. Bespreek deze met anderen en kijk daarna naar de antwoorden in bestand: '2 Answers'.

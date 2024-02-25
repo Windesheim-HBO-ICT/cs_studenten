@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Smelly_EmployeeManager/1.0.0": {
+        "runtime": {
+          "Smelly_EmployeeManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Smelly_EmployeeManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

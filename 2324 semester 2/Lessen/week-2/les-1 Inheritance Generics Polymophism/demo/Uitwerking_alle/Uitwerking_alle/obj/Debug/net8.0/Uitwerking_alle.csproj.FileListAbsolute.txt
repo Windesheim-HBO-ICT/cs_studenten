@@ -1,0 +1,15 @@
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-1 Inheritance Generics Polymophism\demo\Uitwerking_alle\Uitwerking_alle\obj\Debug\net8.0\Uitwerking_alle.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-1 Inheritance Generics Polymophism\demo\Uitwerking_alle\Uitwerking_alle\obj\Debug\net8.0\Uitwerking_alle.AssemblyInfoInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-1 Inheritance Generics Polymophism\demo\Uitwerking_alle\Uitwerking_alle\obj\Debug\net8.0\Uitwerking_alle.AssemblyInfo.cs
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-1 Inheritance Generics Polymophism\demo\Uitwerking_alle\Uitwerking_alle\obj\Debug\net8.0\Uitwerking_alle.csproj.CoreCompileInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-1 Inheritance Generics Polymophism\demo\Uitwerking_alle\Uitwerking_alle\obj\Debug\net8.0\Uitwerking_alle.sourcelink.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-1 Inheritance Generics Polymophism\demo\Uitwerking_alle\Uitwerking_alle\bin\Debug\net8.0\Uitwerking_alle.exe
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-1 Inheritance Generics Polymophism\demo\Uitwerking_alle\Uitwerking_alle\bin\Debug\net8.0\Uitwerking_alle.deps.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-1 Inheritance Generics Polymophism\demo\Uitwerking_alle\Uitwerking_alle\bin\Debug\net8.0\Uitwerking_alle.runtimeconfig.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-1 Inheritance Generics Polymophism\demo\Uitwerking_alle\Uitwerking_alle\bin\Debug\net8.0\Uitwerking_alle.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-1 Inheritance Generics Polymophism\demo\Uitwerking_alle\Uitwerking_alle\bin\Debug\net8.0\Uitwerking_alle.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-1 Inheritance Generics Polymophism\demo\Uitwerking_alle\Uitwerking_alle\obj\Debug\net8.0\Uitwerking_alle.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-1 Inheritance Generics Polymophism\demo\Uitwerking_alle\Uitwerking_alle\obj\Debug\net8.0\refint\Uitwerking_alle.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-1 Inheritance Generics Polymophism\demo\Uitwerking_alle\Uitwerking_alle\obj\Debug\net8.0\Uitwerking_alle.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-1 Inheritance Generics Polymophism\demo\Uitwerking_alle\Uitwerking_alle\obj\Debug\net8.0\Uitwerking_alle.genruntimeconfig.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-1 Inheritance Generics Polymophism\demo\Uitwerking_alle\Uitwerking_alle\obj\Debug\net8.0\ref\Uitwerking_alle.dll

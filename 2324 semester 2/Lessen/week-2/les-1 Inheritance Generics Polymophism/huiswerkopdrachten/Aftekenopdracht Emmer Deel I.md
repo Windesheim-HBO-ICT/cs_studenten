@@ -1,0 +1,1 @@
+Onder het huiswerk van deze week valt ook de Emmer opdracht Deel 1. Deze kun je vinden in de map aftekenopdrachten.

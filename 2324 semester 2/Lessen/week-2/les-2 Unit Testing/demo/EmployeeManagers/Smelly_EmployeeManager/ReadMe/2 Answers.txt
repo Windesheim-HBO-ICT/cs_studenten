@@ -1,0 +1,41 @@
+﻿
+
+
+Testbaarheid
+
+Mogelijke antwoorden op de gestelde vragen.
+
+ - Welke acceptatiecriteria van de applicatie kan afzonderlijk getest worden? 
+		ANTWOORD: 
+			Het is niet mogelijk om afzonderlijke onderdelen in de code (en dus applicatie) te testen. Voor iedere test zal het hele programma geladen en gestart moeten worden om specifieke scenario's te kunnen doorlopen.
+
+ - Volgens welke testmethode kunnen deze criteria getest worden?
+		ANTWOORD: 
+			Het is mogelijk om gebruikers eisen volgens acceptatie testen op te stellen en uit te voeren.
+
+ - Wat zou uit de acceptatiecriteria afzonderlijk getest moeten kunnen worden?
+		ANTWOORD: 
+			een werknemer met naam en salaris
+			een overzicht van werknemers met naam en salaris
+			een gesorteerd overzicht
+			zoeken van werknemer op naam
+			verhogen van salaris
+			... en meer
+
+ - Sorteer de criteria op basis van prioriteit.
+		ANTWOORD: 
+			verhogen van salaris
+			zoeken van werknemer op naam
+			een werknemer met naam en salaris
+			een gesorteerd overzicht
+			... en meer
+
+ - Maak een lijst van onderdelen (objecten) om de testbaarheid zo specifiek en geïsoleerd mogelijk te krijgen.
+		ANTWOORD: 
+			salaris (bedrag, verhogen)
+			werknemer (naam, salaris)
+			gebruikersinteractie (overzicht tonen, meldingen, console input/output)
+			gegevensopslag (alle werknemers opvragen, zoeken op naam, wijzigingen bijhouden)
+
+
+Bespreek de antwoorden met anderen en kijk daarna naar het volgende project: '02 Object Oriented' > 'OO_EmployeeManager'.

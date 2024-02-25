@@ -1,0 +1,15 @@
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-2 Unit Testing\demo\EmployeeManagers\OO_EmployeeManager\bin\Debug\net8.0\OO_EmployeeManager.exe
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-2 Unit Testing\demo\EmployeeManagers\OO_EmployeeManager\bin\Debug\net8.0\OO_EmployeeManager.deps.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-2 Unit Testing\demo\EmployeeManagers\OO_EmployeeManager\bin\Debug\net8.0\OO_EmployeeManager.runtimeconfig.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-2 Unit Testing\demo\EmployeeManagers\OO_EmployeeManager\bin\Debug\net8.0\OO_EmployeeManager.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-2 Unit Testing\demo\EmployeeManagers\OO_EmployeeManager\bin\Debug\net8.0\OO_EmployeeManager.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-2 Unit Testing\demo\EmployeeManagers\OO_EmployeeManager\obj\Debug\net8.0\OO_EmployeeManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-2 Unit Testing\demo\EmployeeManagers\OO_EmployeeManager\obj\Debug\net8.0\OO_EmployeeManager.AssemblyInfoInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-2 Unit Testing\demo\EmployeeManagers\OO_EmployeeManager\obj\Debug\net8.0\OO_EmployeeManager.AssemblyInfo.cs
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-2 Unit Testing\demo\EmployeeManagers\OO_EmployeeManager\obj\Debug\net8.0\OO_EmployeeManager.csproj.CoreCompileInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-2 Unit Testing\demo\EmployeeManagers\OO_EmployeeManager\obj\Debug\net8.0\OO_EmployeeManager.sourcelink.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-2 Unit Testing\demo\EmployeeManagers\OO_EmployeeManager\obj\Debug\net8.0\OO_EmployeeManager.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-2 Unit Testing\demo\EmployeeManagers\OO_EmployeeManager\obj\Debug\net8.0\refint\OO_EmployeeManager.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-2 Unit Testing\demo\EmployeeManagers\OO_EmployeeManager\obj\Debug\net8.0\OO_EmployeeManager.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-2 Unit Testing\demo\EmployeeManagers\OO_EmployeeManager\obj\Debug\net8.0\OO_EmployeeManager.genruntimeconfig.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\2324 semester 2\Lessen\week-2\les-2 Unit Testing\demo\EmployeeManagers\OO_EmployeeManager\obj\Debug\net8.0\ref\OO_EmployeeManager.dll

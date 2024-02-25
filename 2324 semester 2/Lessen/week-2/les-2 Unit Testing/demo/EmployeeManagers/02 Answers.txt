@@ -1,0 +1,31 @@
+
+Neem de requirements door en bekijk de gerealiseerde code in het project EmployeeManager, EmployeeManage.ConsoleUI en EmployeeManager.DataAccess. Let op de testbaarheid van de applicatie.
+
+Mogelijke antwoorden op de vragen. 
+
+ - Er zijn nu drie projecten aangemaakt (de testprojecten buiten beschouwing). Wat zijn de verschillende verantwoordelijkheden in de projecten? Waarop zijn ze gescheiden?
+ 		ANTWOORD: 
+			ConsoleUI bevat alle verantwoordelijkheden van de gebruikersinteractie, hieronder valt de visualisatie van de input en output van gegevens.
+			EmployeeManager bevat alle verantwoordelijkheden van de domein logica, hieronder valt de bepaling van een werknemer, salaris en salarisverhoging.
+			DataAccess bevat alle verantwoordelijkheden van de toegang tot de gegevens(data) en opslag, hieronder valt het uitlezen van de lijst (C# array) van de werknemers met hun naam en actuele salaris.
+ 
+ - Van welk type template zijn de projecten, en welke soort (extensie) van bestand wordt daaruit gecompileerd?
+  		ANTWOORD: 
+			ConsoleUI		-> Console Application	-> *.exe
+			EmployeeManager -> Class Library		-> *.dll
+			DataAccess		-> Class Library		-> *.dll
+
+ - Welk(e) project(en) moet(en) aangepast worden, wanneer de gegevens uit een database of uit een json-bestand gelezen moeten worden?
+   		ANTWOORD: 
+			Alleen DataAccess
+
+ - Wat is de rol van de interface IEmployeeRepository in het systeem?
+   		ANTWOORD: 
+			Deze interface definieert de toegang tot de gegevens. 'Employee[] GetAll()' en 'Employee? FindFirstByName(string? name)'.
+			Door deze als parameter in de constructor van de Prompt klasse op te nemen kan de Prompt klasse met verschillende implementaties van de repository werken. Met het DataAccess en ConsoleUITests project worden al twee implementaties gegeven.
+ 
+ - Neem het testproject 'ConsoleUITests' door. Wat is het voordeel om de SetUp van de Repository Mock in de testen van 'PromptTests' te doen?
+    	ANTWOORD: 
+			De gegevens voor de test kunnen nu specifiek en per test opgegeven worden.
+			Iedere test is geïsoleert omdat het met een eigen set van gegevens test. Hierdoor kan het uitvoeren van een test niet de gegevens van een andere test beïnvloeden.
+			Het samenstellen van de lijst kan nu met verschillende aantallen van werknemers getest worden.

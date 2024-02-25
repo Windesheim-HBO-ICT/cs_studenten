@@ -1,0 +1,30 @@
+
+Neem de requirements door en bekijk de gerealiseerde code in het project EmployeeManager, EmployeeManage.ConsoleUI en EmployeeManager.DataAccess. Let op de testbaarheid van de applicatie.
+
+Beantwoord daarna de volgende vragen. 
+
+ - Er zijn nu drie projecten aangemaakt (de testprojecten buiten beschouwing). Wat zijn de verschillende verantwoordelijkheden in de projecten? Waarop zijn ze gescheiden?
+ 		ANTWOORD: 
+			<vul hier in>
+			...
+ 
+ - Van welk type template zijn de projecten, en welke soort (extensie) van bestand wordt daaruit gecompileerd?
+  		ANTWOORD: 
+			<vul hier in>
+			...
+
+ - Welk(e) project(en) moet(en) aangepast worden, wanneer de gegevens uit een database of uit een json-bestand gelezen moeten worden?
+   		ANTWOORD: 
+			<vul hier in>
+			...
+
+ - Wat is de rol van de interface IEmployeeRepository in het systeem?
+   		ANTWOORD: 
+			<vul hier in>
+			...
+
+ - Neem het testproject 'ConsoleUITests' door. Wat is het voordeel om de SetUp van de Repository Mock in de testen van 'PromptTests' te doen?
+    	ANTWOORD: 
+			<vul hier in>
+			...
+ 
