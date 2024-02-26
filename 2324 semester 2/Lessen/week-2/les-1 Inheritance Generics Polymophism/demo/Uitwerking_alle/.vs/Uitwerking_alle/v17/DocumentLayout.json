@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-2\\les-1 Inheritance Generics Polymophism\\demo\\Uitwerking_alle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34650B0B-A942-414E-BD71-BE3160190892}|Uitwerking_alle\\Uitwerking_alle.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\2324 semester 2\\lessen\\week-2\\les-1 inheritance generics polymophism\\demo\\uitwerking_alle\\uitwerking_alle\\generic\\historylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34650B0B-A942-414E-BD71-BE3160190892}|Uitwerking_alle\\Uitwerking_alle.csproj|solutionrelative:uitwerking_alle\\generic\\historylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34650B0B-A942-414E-BD71-BE3160190892}|Uitwerking_alle\\Uitwerking_alle.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\2324 semester 2\\lessen\\week-2\\les-1 inheritance generics polymophism\\demo\\uitwerking_alle\\uitwerking_alle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34650B0B-A942-414E-BD71-BE3160190892}|Uitwerking_alle\\Uitwerking_alle.csproj|solutionrelative:uitwerking_alle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-2\\les-1 Inheritance Generics Polymophism\\demo\\Uitwerking_alle\\Uitwerking_alle\\Program.cs",
+              "RelativeDocumentMoniker": "Uitwerking_alle\\Program.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-2\\les-1 Inheritance Generics Polymophism\\demo\\Uitwerking_alle\\Uitwerking_alle\\Program.cs",
+              "RelativeToolTip": "Uitwerking_alle\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:39:46.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistoryList.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-2\\les-1 Inheritance Generics Polymophism\\demo\\Uitwerking_alle\\Uitwerking_alle\\Generic\\HistoryList.cs",
+              "RelativeDocumentMoniker": "Uitwerking_alle\\Generic\\HistoryList.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-2\\les-1 Inheritance Generics Polymophism\\demo\\Uitwerking_alle\\Uitwerking_alle\\Generic\\HistoryList.cs",
+              "RelativeToolTip": "Uitwerking_alle\\Generic\\HistoryList.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAlwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:36:43.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 157,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
