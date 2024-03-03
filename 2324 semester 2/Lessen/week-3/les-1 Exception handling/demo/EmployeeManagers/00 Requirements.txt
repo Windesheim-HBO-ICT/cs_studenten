@@ -1,0 +1,22 @@
+
+Requirements
+
+1. Als personeelsmanager wil ik een overzicht van medewerkers zien zodat ik kan bepalen wie een salarisverhoging krijgen moet.
+
+	1.1 Acceptatiecriteria:
+		1.1.1 het systeem toont een op naam gesorteerd overzicht van werknemers
+		1.1.2 het overzicht toont de naam en het salaris van de werknemers
+		1.1.3 wanneer geen salarisverhogingen (meer) nodig zijn, biedt het systeem de mogelijkheid om af te sluiten
+
+
+2. Als personeelsmanager wil ik een medewerker kunnen zoeken om een salarisverhoging te geven.
+
+	2.1 Acceptatiecriteria:
+		2.1.1 een werknemer wordt gezocht en geselecteerd op naam
+		2.1.2 een in te stellen bedrag wordt als verhoging aan het salaris toegevoegd
+		2.1.3 een salaris mag nooit negatief zijn
+
+
+Non-Functionele Requirements
+
+1. Het systeem moet makkelijk te onderhouden zijn (aanpassingen, uitbreidingen en het vervangen van onderdelen).

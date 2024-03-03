@@ -14,7 +14,7 @@ Beantwoord daarna de volgende vragen.
 			<vul hier in>
 			...
 
- - Welke acceptatiecriteria zou afzonderlijk getest moeten kunnen worden?
+ - Welke acceptatiecriteria zou afzonderlijk (unit of work) getest moeten kunnen worden?
 		ANTWOORD: 
 			<vul hier in>
 			...
