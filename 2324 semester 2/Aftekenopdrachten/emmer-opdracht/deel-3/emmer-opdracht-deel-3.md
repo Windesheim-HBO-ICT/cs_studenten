@@ -9,9 +9,9 @@ In deze opdracht ga je verder met Opdracht Emmer - deel 1 en deel 2, waarbij je 
 -	De functionele eisen uit Opdracht Emmer - deel 1 en deel 2 blijven van toepassing.
 -	Wanneer een emmer, regenton of olievat vol is, wordt dat met een event gecommuniceerd.
 -	Wanneer een emmer, regenton of olievat overstroomd, wordt met een event gecommuniceerd hoeveel de container overstroomd.
--	Wanneer een emmer, regenton of olievat op het punt staat om te overstromen, wordt met een event de mogelijkheid gegeven om de overstroom hoeveelheid in te stellen of het overstromen te annuleren. 
+-	Wanneer een emmer, regenton of olievat op het punt staat om te overstromen, wordt met een event de mogelijkheid gegeven om de overstroom hoeveelheid in te stellen of het overstromen te annuleren. (optioneel, niet verplicht voor het aftekenen)
 
-## Non-functionele eisen
+## Technische eisen
 -	Definieer eigen delegate typen voor de events.
 -	De non-functionele eisen uit Opdracht Emmer -deel 1 en deel 2 blijven van toepassing.
 
@@ -23,4 +23,10 @@ In deze opdracht ga je verder met Opdracht Emmer - deel 1 en deel 2, waarbij je 
 -	Alle testen slagen
 
 ## Ondersteunende informatie
-Geen.
+
+Gebruik de volgende naamgeving, voor de events:
+	Full
+	Overflowed
+	Overflowing (object sender, OverflowingEventArgs args)
+
+Gebruik voor het derde event Overflowing de standaard event signature met 'object sender' en 'EventArgs e' als basis type. Maak een nieuwe klasse en erf over van EventArgs. Gebruik deze in de oplossing waarmee het overstromen geannuleerd kan worden en waarmee gecommuniceerd kan worden met hoeveel er anders overstroomd mag worden.

@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-3\\les-1 Exception handling\\demo\\EmployeeManagers\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6F9DF1-44E8-4E90-A256-044FE29262AE}|EmployeeManager\\EmployeeManager.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\2324 semester 2\\lessen\\week-3\\les-1 exception handling\\demo\\employeemanagers\\employeemanager\\exceptions\\negativeraisesalaryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6F9DF1-44E8-4E90-A256-044FE29262AE}|EmployeeManager\\EmployeeManager.csproj|solutionrelative:employeemanager\\exceptions\\negativeraisesalaryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6F9DF1-44E8-4E90-A256-044FE29262AE}|EmployeeManager\\EmployeeManager.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\2324 semester 2\\lessen\\week-3\\les-1 exception handling\\demo\\employeemanagers\\employeemanager\\exceptions\\negativesalaryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6F9DF1-44E8-4E90-A256-044FE29262AE}|EmployeeManager\\EmployeeManager.csproj|solutionrelative:employeemanager\\exceptions\\negativesalaryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6F9DF1-44E8-4E90-A256-044FE29262AE}|EmployeeManager\\EmployeeManager.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\2324 semester 2\\lessen\\week-3\\les-1 exception handling\\demo\\employeemanagers\\employeemanager\\models\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6F9DF1-44E8-4E90-A256-044FE29262AE}|EmployeeManager\\EmployeeManager.csproj|solutionrelative:employeemanager\\models\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A26FAB7-B7F8-4138-B7C2-062AAB74E703}|EmployeeManagerTests\\EmployeeManagerTests.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\2324 semester 2\\lessen\\week-3\\les-1 exception handling\\demo\\employeemanagers\\employeemanagertests\\salarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A26FAB7-B7F8-4138-B7C2-062AAB74E703}|EmployeeManagerTests\\EmployeeManagerTests.csproj|solutionrelative:employeemanagertests\\salarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEA8092-07C3-42DD-AB5D-8B141BAB6EFF}|ReadMe{0DEA8092-07C3-42DD-AB5D-8B141BAB6EFF}|E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-3\\les-1 Exception handling\\demo\\EmployeeManagers\\00 Requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0DEA8092-07C3-42DD-AB5D-8B141BAB6EFF}|ReadMe{0DEA8092-07C3-42DD-AB5D-8B141BAB6EFF}|solutionrelative:00 Requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FF7CFF-35CC-407D-80D5-C30445657D74}|EmployeeManager.ConsoleUI\\EmployeeManager.ConsoleUI.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\2324 semester 2\\lessen\\week-3\\les-1 exception handling\\demo\\employeemanagers\\employeemanager.consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FF7CFF-35CC-407D-80D5-C30445657D74}|EmployeeManager.ConsoleUI\\EmployeeManager.ConsoleUI.csproj|solutionrelative:employeemanager.consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +47,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:672601558:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalaryTests.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-3\\les-1 Exception handling\\demo\\EmployeeManagers\\EmployeeManagerTests\\SalaryTests.cs",
+              "RelativeDocumentMoniker": "EmployeeManagerTests\\SalaryTests.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-3\\les-1 Exception handling\\demo\\EmployeeManagers\\EmployeeManagerTests\\SalaryTests.cs",
+              "RelativeToolTip": "EmployeeManagerTests\\SalaryTests.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:58:04.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NegativeSalaryException.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-3\\les-1 Exception handling\\demo\\EmployeeManagers\\EmployeeManager\\Exceptions\\NegativeSalaryException.cs",
+              "RelativeDocumentMoniker": "EmployeeManager\\Exceptions\\NegativeSalaryException.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-3\\les-1 Exception handling\\demo\\EmployeeManagers\\EmployeeManager\\Exceptions\\NegativeSalaryException.cs",
+              "RelativeToolTip": "EmployeeManager\\Exceptions\\NegativeSalaryException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:57:35.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NegativeRaiseSalaryException.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-3\\les-1 Exception handling\\demo\\EmployeeManagers\\EmployeeManager\\Exceptions\\NegativeRaiseSalaryException.cs",
+              "RelativeDocumentMoniker": "EmployeeManager\\Exceptions\\NegativeRaiseSalaryException.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-3\\les-1 Exception handling\\demo\\EmployeeManagers\\EmployeeManager\\Exceptions\\NegativeRaiseSalaryException.cs",
+              "RelativeToolTip": "EmployeeManager\\Exceptions\\NegativeRaiseSalaryException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:57:06.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "00 Requirements.txt",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-3\\les-1 Exception handling\\demo\\EmployeeManagers\\00 Requirements.txt",
+              "RelativeDocumentMoniker": "00 Requirements.txt",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-3\\les-1 Exception handling\\demo\\EmployeeManagers\\00 Requirements.txt",
+              "RelativeToolTip": "00 Requirements.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-04T09:56:11.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-3\\les-1 Exception handling\\demo\\EmployeeManagers\\EmployeeManager.ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManager.ConsoleUI\\Program.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-3\\les-1 Exception handling\\demo\\EmployeeManagers\\EmployeeManager.ConsoleUI\\Program.cs",
+              "RelativeToolTip": "EmployeeManager.ConsoleUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:38:24.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-3\\les-1 Exception handling\\demo\\EmployeeManagers\\EmployeeManager\\Models\\Salary.cs",
+              "RelativeDocumentMoniker": "EmployeeManager\\Models\\Salary.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\2324 semester 2\\Lessen\\week-3\\les-1 Exception handling\\demo\\EmployeeManagers\\EmployeeManager\\Models\\Salary.cs",
+              "RelativeToolTip": "EmployeeManager\\Models\\Salary.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:38:16.701Z",
+              "EditorCaption": ""
             }
           ]
         }

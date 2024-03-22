@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hQvk6zs1SwxRRBCLk0SKUh/1Xz4hWmIrQiEfhPAJAWDXX0oplOpAP68bWcjqj7F404ZPYvGJa4RDyWLdq2ra2A==",
+  "dgSpecHash": "1TsvS8xv+6INe0a77HTfKkjfljxrCaJAs2RkHB8tq/lzdqCcDIfQHO+cRMfJOPBv1A1d0hUH88f0WmwI4H2Uyw==",
   "success": true,
   "projectFilePath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\demo\\todo\\ToDoSolution\\ToDo.DataAccess.SqlServer\\ToDo.DataAccess.SqlServer.csproj",
   "expectedPackageFiles": [

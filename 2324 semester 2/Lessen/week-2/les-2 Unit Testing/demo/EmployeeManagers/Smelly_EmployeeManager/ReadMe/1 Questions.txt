@@ -4,7 +4,7 @@ Neem de requirements door en bekijk de gerealiseerde code in het project Smelly_
 
 Beantwoord daarna de volgende vragen. 
 
- - Welke acceptatiecriteria van de applicatie kan afzonderlijk getest worden? 
+ - Welke requirements en acceptatiecriteria van de applicatie kan afzonderlijk getest worden?
 		ANTWOORD: 
 			<vul hier in>
 			...
@@ -24,7 +24,7 @@ Beantwoord daarna de volgende vragen.
 			<vul hier in>
 			...
 
- - Maak een lijst van kandidaat objecten om de testbaarheid zo specifiek en geïsoleerd mogelijk te krijgen.
+ - Maak een lijst van kandidaat objecten/classes om de testbaarheid zo specifiek en geïsoleerd mogelijk te krijgen.
 		ANTWOORD: 
 			<vul hier in>
 			...
