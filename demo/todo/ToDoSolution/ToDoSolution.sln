@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDo.DataAccess.SqlServer",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDo.WpfApp", "ToDo.WpfApp\ToDo.WpfApp.csproj", "{B82B03C1-3B04-4929-B60B-8471D5D33D42}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDo.DataAccess.InMemory", "ToDo.DataAccess.InMemory\ToDo.DataAccess.InMemory.csproj", "{917C123D-231E-4E0E-A510-30BD590264DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{B82B03C1-3B04-4929-B60B-8471D5D33D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B82B03C1-3B04-4929-B60B-8471D5D33D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B82B03C1-3B04-4929-B60B-8471D5D33D42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917C123D-231E-4E0E-A510-30BD590264DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917C123D-231E-4E0E-A510-30BD590264DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917C123D-231E-4E0E-A510-30BD590264DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917C123D-231E-4E0E-A510-30BD590264DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
