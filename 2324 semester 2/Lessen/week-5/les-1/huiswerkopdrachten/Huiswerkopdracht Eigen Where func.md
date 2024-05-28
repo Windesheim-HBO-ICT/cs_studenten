@@ -4,7 +4,7 @@
 
 | **Complexiteit** | **Moment**   | **Scaffold** | **Ondersteuning** | **Onderwerpen**                       |
 |------------------|--------------|--------------|------------------|---------------------------------------|
-| Basis        | College      | Nee          | Ja               | linq, generics, delegates, lambda expressies      |
+| Gemiddeld        | Werkcollege      | Ja          | Ja               | linq, generics, delegates, lambda expressies      |
 
 
 ## Beschrijving  

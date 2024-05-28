@@ -14,12 +14,15 @@ In deze opdracht ga je verder met Opdracht Emmer - deel 1 en deel 2, waarbij je 
 ## Technische eisen
 -	Definieer eigen delegate typen voor de events.
 -	De non-functionele eisen uit Opdracht Emmer -deel 1 en deel 2 blijven van toepassing.
+-	Schrijf een lijst van unit testen om de correcte werking van de gestelde eisen aan te tonen. Houd rekening met de impliciete en ongewenste scenario’s die voortvloeien uit de gestelde eisen.
+-	Test de events met unit-tests (nUnit of xUnit).
 
 ## Test procedure
--	Schrijf een lijst van unit testen om de correcte werking van de gestelde eisen aan te tonen. Houd rekening met de impliciete en ongewenste scenario’s die voortvloeien uit de gestelde eisen.
--	Test de events met unit-tests.
+-	Voer alle testen uit
 
 ## Test resultaat
+-	De events zijn geïmplementeerd.
+-	De impliciete en ongewenste scenario’s die voortvloeien uit de gestelde eisen zijn getest
 -	Alle testen slagen
 
 ## Ondersteunende informatie
