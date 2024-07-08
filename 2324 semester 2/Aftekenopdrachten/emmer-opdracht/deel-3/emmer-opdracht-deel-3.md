@@ -18,19 +18,23 @@ In deze opdracht ga je verder met Opdracht Emmer - deel 1 en deel 2, waarbij je 
 -	Schrijf een lijst van unit-testen om de correcte werking van de gestelde eisen aan te tonen. Houd rekening met de impliciete en ongewenste scenario’s die voortvloeien uit de gestelde eisen.
 -	Test de events met unit-tests (nUnit of xUnit).
 
+### Naamgeving
+|**Events**|
+|--|
+|Full (object sender, EventArgs args)|
+|Overflowed (object sender, OverflowedEventArgs args)|
+|Overflowing (object sender, OverflowingEventArgs args)|
+
 ## Test procedure
--	Voer alle testen uit
+-	Voer unit-testen uit
 -	Toon implementaties en licht ontwerpkeuzes toe.
 
 ## Test resultaat
 -	De unit-testen slagen en tonen de correcte werking van de gestelde eisen aan.
 -	Ontwerpkeuzes zijn toegelicht, waarmee de kwaliteit van de code en testen aangetoond is.
 
+
 ## Ondersteunende informatie
 
-Gebruik de volgende naamgeving, voor de events:
-	Full
-	Overflowed
-	Overflowing (object sender, OverflowingEventArgs args)
 
-Gebruik voor het derde event Overflowing de standaard event signature met 'object sender' en 'EventArgs e' als basis type. Maak een nieuwe klasse en erf over van EventArgs. Gebruik deze in de oplossing waarmee het overstromen geannuleerd kan worden en waarmee gecommuniceerd kan worden met hoeveel er anders overstroomd mag worden.
+Gebruik voor het event Overflowing de standaard event signature met 'object sender' en een afgeleide van 'EventArgs e'. Maak een nieuwe klasse en erf over van EventArgs (of zoek een betere kandidaat). Gebruik deze in de oplossing waarmee het overstromen geannuleerd kan worden en waarmee terug gecommuniceerd kan worden met hoeveel er overstroomd mag worden.

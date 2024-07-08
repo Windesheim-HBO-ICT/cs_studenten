@@ -27,18 +27,16 @@ In deze opdracht pas je object oriëntatie toe om een emmer, regenton en olievat
 -	De standaard naamgevingsconventies worden aangehouden, gebruik Engels.
 -	Houd rekening met de impliciete en ongewenste scenario’s die voortvloeien uit de gestelde eisen en voorkom dubbele of overbodige code.
 
-##Naamgeving
-|Klassen||
+## Naamgeving
+|**Klassen**||
 |--|--|
 |Emmer|Bucket|
 |Regenton|Rainbarrel|
 |Olievat|Oilbarrel|
-|Properties||
-|--|--|
+|**Properties**||
 |Capaciteit|Capacity|
 |Inhoud|Content|
-|Methods||
-|--|--|
+|**Methods**||
 |Vullen|Fill|
 |Legen|Empty|
 
