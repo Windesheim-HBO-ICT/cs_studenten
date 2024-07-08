@@ -28,17 +28,17 @@ In deze opdracht pas je object oriëntatie toe om een emmer, regenton en olievat
 -	Houd rekening met de impliciete en ongewenste scenario’s die voortvloeien uit de gestelde eisen en voorkom dubbele of overbodige code.
 
 ##Naamgeving
-|Klassen|
-|--|
+|Klassen||
+|--|--|
 |Emmer|Bucket|
 |Regenton|Rainbarrel|
 |Olievat|Oilbarrel|
-|Properties|
-|--|
+|Properties||
+|--|--|
 |Capaciteit|Capacity|
 |Inhoud|Content|
-|Methods|
-|--|
+|Methods||
+|--|--|
 |Vullen|Fill|
 |Legen|Empty|
 
