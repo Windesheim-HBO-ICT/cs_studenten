@@ -19,7 +19,7 @@ In deze opdracht ga je verder met Opdracht Emmer - deel 1 en deel 2, waarbij je 
 -	Test de events met unit-tests (nUnit of xUnit).
 
 ### Naamgeving
-|**Events**|
+| **Events**|
 |--|
 |Full (object sender, EventArgs args)|
 |Overflowed (object sender, OverflowedEventArgs args)|
