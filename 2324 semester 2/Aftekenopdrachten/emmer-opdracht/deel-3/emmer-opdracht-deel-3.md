@@ -1,6 +1,6 @@
 # Opdracht Emmer - deel 3
 **Onderwerpen:** Events
-**Complexiteit:** novice 
+**Complexiteit:** intermediate 
 
 ## Opdrachtbeschrijving
 In deze opdracht ga je verder met Opdracht Emmer - deel 1 en deel 2, waarbij je nu events gaat implementeren die gebruikt worden om te signaleren wanneer een emmer vol is of overstroomt. Met unit-testen toon je wederom aan dat je oplossing voldoet aan de gestelde nieuwe én reeds bestaande eisen. 
@@ -11,19 +11,20 @@ In deze opdracht ga je verder met Opdracht Emmer - deel 1 en deel 2, waarbij je 
 -	Wanneer een emmer, regenton of olievat overstroomd, wordt met een event gecommuniceerd hoeveel de container overstroomd.
 -	Wanneer een emmer, regenton of olievat op het punt staat om te overstromen, wordt met een event de mogelijkheid gegeven om de overstroom hoeveelheid in te stellen of het overstromen te annuleren. (optioneel, niet verplicht voor het aftekenen)
 
-## Technische eisen
--	Definieer eigen delegate typen voor de events.
+## Non-functionele eisen
+-	Implementeer events waarbij custom delegates gebruikt worden of maak gebruik van bestaande delegates.
+-	Houd de standaard 'object sender, eventargs e' signature aan waarbij, eventargs een afgeleide klasse is.
 -	De non-functionele eisen uit Opdracht Emmer -deel 1 en deel 2 blijven van toepassing.
--	Schrijf een lijst van unit testen om de correcte werking van de gestelde eisen aan te tonen. Houd rekening met de impliciete en ongewenste scenario’s die voortvloeien uit de gestelde eisen.
+-	Schrijf een lijst van unit-testen om de correcte werking van de gestelde eisen aan te tonen. Houd rekening met de impliciete en ongewenste scenario’s die voortvloeien uit de gestelde eisen.
 -	Test de events met unit-tests (nUnit of xUnit).
 
 ## Test procedure
 -	Voer alle testen uit
+-	Toon implementaties en licht ontwerpkeuzes toe.
 
 ## Test resultaat
--	De events zijn geïmplementeerd.
--	De impliciete en ongewenste scenario’s die voortvloeien uit de gestelde eisen zijn getest
--	Alle testen slagen
+-	De unit-testen slagen en tonen de correcte werking van de gestelde eisen aan.
+-	Ontwerpkeuzes zijn toegelicht, waarmee de kwaliteit van de code en testen aangetoond is.
 
 ## Ondersteunende informatie
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToDo.DataAccess.InMemory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13f2270600539b1f24d3602563831f3a9f2735ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11374975a5f57934a2c402bea10358bb6e80069e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToDo.DataAccess.InMemory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToDo.DataAccess.InMemory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

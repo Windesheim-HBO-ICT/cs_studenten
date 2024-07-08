@@ -5,8 +5,9 @@
 
 ## Beschrijving  
 In deze opdracht pas je object oriëntatie toe om een emmer, regenton en olievat te maken. In een eenvoudige applicatie toon je aan dat deze correct gevuld en geleegd kunnen worden. 
-Functionele eisen
--	De capaciteit geeft aan hoeveel er in een emmer, regenton of olievat kan
+
+## Functionele eisen
+-	De capaciteit geeft aan hoeveel er in een emmer, regenton of olievat kan.
 -	De inhoud geeft aan hoeveel er in een emmer, regenton of olievat zit. 
 -	De capaciteit en inhoud van een emmer, regenton en olievat kan niet negatief zijn.
 -	De maximale capaciteit van een emmer is nooit meer dan 2500. 
@@ -21,18 +22,34 @@ Functionele eisen
 -	Een emmer kan gevuld worden een andere emmer. De inhoud van de andere emmer wordt dan gebruikt om de emmer te vullen.
 
 ## Non-functionele eisen
--	Alle Emmer, Regenton en Olievat functionaliteiten worden in een class-library geïmplementeerd
--	Alle (gebruikers en) grafische functionaliteiten worden in een Console Application geïmplementeerd
--	De standaard naamgevingsconventies worden aangehouden, gebruik Engels
--	Vermijd dubbele, overbodige code.
+-	Alle Emmer, Regenton en Olievat functionaliteiten worden in een Class Library geïmplementeerd.
+-	Alle grafische functionaliteiten worden in een Console Application geïmplementeerd.
+-	De standaard naamgevingsconventies worden aangehouden, gebruik Engels.
+-	Houd rekening met de impliciete en ongewenste scenario’s die voortvloeien uit de gestelde eisen en voorkom dubbele of overbodige code.
 
-## Test procedure
--	Voer de Console Applicatie uit, waarbij zonder gebruikerinteractie een of meerdere emmers, regentonnen en olievaten gebruikt worden. 
-- 
-## Test resultaat
--	Het uitvoeren van de console applicatie toont tekst in beeld, waaruit blijkt dat voldaan wordt aan de gestelde eisen.
--	Er wordt een lijst geprint van de uitgevoerde acties en resultaten om de correcte werking van de gestelde eisen aan te tonen. 
--	Er is rekening gehouden met de impliciete en ongewenste scenario’s die voortvloeien uit de gestelde eisen en dubbele of overbodige code wordt voorkomen.
+##Naamgeving
+|Klassen|
+|--|
+|Emmer|Bucket|
+|Regenton|Rainbarrel|
+|Olievat|Oilbarrel|
+|Properties|
+|--|
+|Capaciteit|Capacity|
+|Inhoud|Content|
+|Methods|
+|--|
+|Vullen|Fill|
+|Legen|Empty|
+
+
+## Test procedure (eisen tijdens aftekenmoment)
+-	Voer de Console Applicatie uit, waarbij (zonder gebruikersinteractie) een of meerdere emmers, regentonnen en olievaten gebruikt worden. 
+-	Toon implementaties en licht ontwerpkeuzes toe.
+
+## Test resultaat (eisen tijdens aftekenmoment)
+-	In de Console wordt een lijst van uitgevoerde acties met resultaten getoond, waaruit blijkt dat voldaan is aan de gestelde eisen (optioneel wanneer dit met de unit-testen uit deel 2 van de opdracht gedaan is). 
+-	Ontwerpkeuzes zijn toegelicht, waarmee de kwaliteit van de code aangetoond is.
 
 ## Ondersteunende informatie  
 In de uitwerking maak je gebruik van de volgende object georiënteerde principes en technieken:
@@ -40,7 +57,7 @@ In de uitwerking maak je gebruik van de volgende object georiënteerde principes
 -	Properties
 -	Methods
 -	Conditional logic
--	Method and constructor overloading
+-	Method- and constructor overloading
 -	Access modifiers
 -	Constants
 -	Class inheritance
@@ -50,20 +67,6 @@ In de uitwerking maak je gebruik van de volgende object georiënteerde principes
 
 Je kunt de bovenstaande lijst van oo-principes gebruiken om online hulp te zoeken of om te valideren of je ze wel allemaal hebt toegepast.
 
-In deze opdracht maak je wel een console applicatie, maar verwerkt je geen gebruikersinput (om onnodige complexiteit te voorkomen). Werk de scenario's dus 'hard-coded' uit.  
+In deze opdracht gebruik je een console applicatie, maar verwerk geen gebruikersinput! Dat is om onnodige complexiteit te voorkomen. Werk de scenario's dus 'hard-coded' uit.  
 
-De opdracht bestaat uit meerdere delen. De delen sluiten aan op de inhoud van de colleges. Later ga je dus met deze opdracht verder.
-
-Gebruik de volgende naamgeving:
-Klassen:
-	Emmer -> Bucket
-	Regenton -> Rainbarrel
-	Olievat -> Oilbarrel
-
-Properties:
-	Capacity
-	Content
-
-Methods:
-	Vullen -> Fill
-	Legen -> Empty
+De opdracht bestaat uit meerdere delen. De delen sluiten aan op de inhoud van de colleges. Later ga je met deze opdracht verder om unit-testing (deel 2) en events (deel 3) toe te voegen.
