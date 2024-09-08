@@ -8,6 +8,7 @@
 # Visual Studio files
 */*.pdb
 */*.exe
+*/*.dll
 */*.obj
 */*.user
 */*.aps
@@ -36,6 +37,7 @@
 */*.[Pp]ublish.xml
 */*.[Pp]ublish.ps1
 */*.[Pp]ublish.targets
+*/.vs/
 
 # Build results
 */[Dd]ebug/

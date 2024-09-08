@@ -1,0 +1,1 @@
+Het huiswerk is de Memory opdracht. Deze kun je vinden in de map Aftekenopdrachten.

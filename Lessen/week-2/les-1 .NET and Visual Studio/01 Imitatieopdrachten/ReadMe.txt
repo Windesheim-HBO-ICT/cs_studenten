@@ -1,0 +1,1 @@
+De opdrachten die in deze PowerPoint staan zijn zo eenvoudig dat de uitwerkingen niet worden aangeboden. Kopieer de code uit de PowerPoints, of val terug op de code die je met je docent tijdens het college hebt gemaakt.

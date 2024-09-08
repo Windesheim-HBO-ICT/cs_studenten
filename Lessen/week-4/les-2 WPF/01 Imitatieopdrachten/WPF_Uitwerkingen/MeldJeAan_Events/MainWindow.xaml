@@ -1,0 +1,34 @@
+﻿<Window x:Class="MeldJeAan_Events.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MeldJeAan_Events"
+        mc:Ignorable="d"
+        Title="Meld je aan!" Height="350" Width="245">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="MeldEenPersoonAanButton" Grid.Row="0" Content="Meld 1 persoon aan" Click="MeldEenPersoonAanButton_Click"/>
+        <Button x:Name="MeldMeerderePersonenAanButton" Grid.Row="1" Content="Meld meerdere personen aan" Click="MeldMeerderePersonenAanButton_Click"/>
+        <ListView Grid.Row="2" Name="PeopleListView" HorizontalContentAlignment="Stretch" ItemsSource="{Binding People}">
+            <ListView.View>
+                <GridView>
+                    <GridView.Columns>
+                        <GridViewColumn Header="Naam">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Naam}"></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

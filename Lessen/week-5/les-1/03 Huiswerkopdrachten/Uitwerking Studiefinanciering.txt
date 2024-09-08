@@ -1,0 +1,31 @@
+//Uitwerking StudieFinanciering
+
+#region Opdracht
+
+// Schrijf alle code binnen deze region 'Opdracht'
+
+// 1. Maak een nieuwe student aan (jezelf ;) en voeg deze toe aan de lijst van studenten
+// 2. Abonneer op het uitbetalings event van de 'Studiefinanciering'. Voer het programma uit en controleer of de studiefinanciereing evenredig verdeeld wordt.
+// 3. Hack de studiefinanciering waardoor de nieuwe student meer of zelfs het hele landelijke studiefinancieringsbudget ontvangt! (alle code dien je te schrijven binnen de region Opdracht)
+
+var paKalles = new Student("P.A. Kalles");
+studenten.Add(paKalles);
+studiefinanciering.UitbetalingEvent = new UitbetalingDelegate(paKalles.ZetBedragOpRekening);
+
+óf
+var paKmeer = new Student("P.A. Kmeer");
+studiefinanciering.UitbetalingEvent += new UitbetalingDelegate(paKmeer.ZetBedragOpRekening);
+studiefinanciering.UitbetalingEvent += new UitbetalingDelegate(paKmeer.ZetBedragOpRekening);
+studiefinanciering.UitbetalingEvent += new UitbetalingDelegate(paKmeer.ZetBedragOpRekening);
+
+
+//Door in de klasse StudieFinanciering het keyword 'event' toe te voegen wordt de 'overschrijf hack' voorkomen:
+//         public event UitbetalingDelegate? UitbetalingEvent;
+//De hack met 100x te abonneren wordt hierdoor niet voorkomen!
+
+#endregion
+
+
+Antwoorden Extra opdracht:
+SaldoInfo_Expression is een property, de notatiewijze wordt in C# Expression Bodied Member genoemd.
+hu-HU staat voor de taal en regio van Hongarije, de valuta daar is forint (HUF), 1EUR is 392HUF op 05-09-2024.

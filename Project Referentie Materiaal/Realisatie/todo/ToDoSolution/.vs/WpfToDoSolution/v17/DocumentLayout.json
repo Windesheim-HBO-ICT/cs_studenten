@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{012ACD60-B9DD-41F9-82B9-0F7922426970}|ToDo.DataAccess.SqlServer\\ToDo.DataAccess.SqlServer.csproj|e:\\03_vakken\\oosdd\\programmeren in c# v24-25 s1\\git\\referentie architectuur\\todo\\todosolution\\todo.dataaccess.sqlserver\\create  db and table-sql.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{012ACD60-B9DD-41F9-82B9-0F7922426970}|ToDo.DataAccess.SqlServer\\ToDo.DataAccess.SqlServer.csproj|solutionrelative:todo.dataaccess.sqlserver\\create  db and table-sql.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82B03C1-3B04-4929-B60B-8471D5D33D42}|ToDo.WpfApp\\ToDo.WpfApp.csproj|e:\\03_vakken\\oosdd\\programmeren in c# v24-25 s1\\git\\referentie architectuur\\todo\\todosolution\\todo.wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B82B03C1-3B04-4929-B60B-8471D5D33D42}|ToDo.WpfApp\\ToDo.WpfApp.csproj|solutionrelative:todo.wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF5E590-9BC6-426E-BBD4-9978AB666E38}|ToDo\\ToDo.csproj|e:\\03_vakken\\oosdd\\programmeren in c# v24-25 s1\\git\\referentie architectuur\\todo\\todosolution\\todo\\validation\\todoitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF5E590-9BC6-426E-BBD4-9978AB666E38}|ToDo\\ToDo.csproj|solutionrelative:todo\\validation\\todoitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF5E590-9BC6-426E-BBD4-9978AB666E38}|ToDo\\ToDo.csproj|e:\\03_vakken\\oosdd\\programmeren in c# v24-25 s1\\git\\referentie architectuur\\todo\\todosolution\\todo\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF5E590-9BC6-426E-BBD4-9978AB666E38}|ToDo\\ToDo.csproj|solutionrelative:todo\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF5E590-9BC6-426E-BBD4-9978AB666E38}|ToDo\\ToDo.csproj|e:\\03_vakken\\oosdd\\programmeren in c# v24-25 s1\\git\\referentie architectuur\\todo\\todosolution\\todo\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF5E590-9BC6-426E-BBD4-9978AB666E38}|ToDo\\ToDo.csproj|solutionrelative:todo\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF5E590-9BC6-426E-BBD4-9978AB666E38}|ToDo\\ToDo.csproj|e:\\03_vakken\\oosdd\\programmeren in c# v24-25 s1\\git\\referentie architectuur\\todo\\todosolution\\todo\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF5E590-9BC6-426E-BBD4-9978AB666E38}|ToDo\\ToDo.csproj|solutionrelative:todo\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82B03C1-3B04-4929-B60B-8471D5D33D42}|ToDo.WpfApp\\ToDo.WpfApp.csproj|e:\\03_vakken\\oosdd\\programmeren in c# v24-25 s1\\git\\referentie architectuur\\todo\\todosolution\\todo.wpfapp\\validation\\newduetodoitemvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82B03C1-3B04-4929-B60B-8471D5D33D42}|ToDo.WpfApp\\ToDo.WpfApp.csproj|solutionrelative:todo.wpfapp\\validation\\newduetodoitemvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82B03C1-3B04-4929-B60B-8471D5D33D42}|ToDo.WpfApp\\ToDo.WpfApp.csproj|e:\\03_vakken\\oosdd\\programmeren in c# v24-25 s1\\git\\referentie architectuur\\todo\\todosolution\\todo.wpfapp\\viewmodels\\todoitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82B03C1-3B04-4929-B60B-8471D5D33D42}|ToDo.WpfApp\\ToDo.WpfApp.csproj|solutionrelative:todo.wpfapp\\viewmodels\\todoitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82B03C1-3B04-4929-B60B-8471D5D33D42}|ToDo.WpfApp\\ToDo.WpfApp.csproj|e:\\03_vakken\\oosdd\\programmeren in c# v24-25 s1\\git\\referentie architectuur\\todo\\todosolution\\todo.wpfapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82B03C1-3B04-4929-B60B-8471D5D33D42}|ToDo.WpfApp\\ToDo.WpfApp.csproj|solutionrelative:todo.wpfapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82B03C1-3B04-4929-B60B-8471D5D33D42}|ToDo.WpfApp\\ToDo.WpfApp.csproj|e:\\03_vakken\\oosdd\\programmeren in c# v24-25 s1\\git\\referentie architectuur\\todo\\todosolution\\todo.wpfapp\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82B03C1-3B04-4929-B60B-8471D5D33D42}|ToDo.WpfApp\\ToDo.WpfApp.csproj|solutionrelative:todo.wpfapp\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create  Db and Table-sql.txt",
+              "DocumentMoniker": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.DataAccess.SqlServer\\Create  Db and Table-sql.txt",
+              "RelativeDocumentMoniker": "ToDo.DataAccess.SqlServer\\Create  Db and Table-sql.txt",
+              "ToolTip": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.DataAccess.SqlServer\\Create  Db and Table-sql.txt",
+              "RelativeToolTip": "ToDo.DataAccess.SqlServer\\Create  Db and Table-sql.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-29T13:48:24.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:404753593:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:672601558:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:574447530:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1830991897:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2014274571:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:701435136:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:447509489:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:682047272:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:897210317:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1816150937:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:353698404:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1102755583:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2049163822:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1259862943:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:189410536:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.WpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ToDo.WpfApp\\MainWindow.xaml",
+              "ToolTip": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.WpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "ToDo.WpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-31T10:38:28.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoItemValidator.cs",
+              "DocumentMoniker": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo\\Validation\\ToDoItemValidator.cs",
+              "RelativeDocumentMoniker": "ToDo\\Validation\\ToDoItemValidator.cs",
+              "ToolTip": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo\\Validation\\ToDoItemValidator.cs",
+              "RelativeToolTip": "ToDo\\Validation\\ToDoItemValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T10:22:05.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewDueToDoItemValidationRule.cs",
+              "DocumentMoniker": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.WpfApp\\Validation\\NewDueToDoItemValidationRule.cs",
+              "RelativeDocumentMoniker": "ToDo.WpfApp\\Validation\\NewDueToDoItemValidationRule.cs",
+              "ToolTip": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.WpfApp\\Validation\\NewDueToDoItemValidationRule.cs",
+              "RelativeToolTip": "ToDo.WpfApp\\Validation\\NewDueToDoItemValidationRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T10:19:30.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoItem.cs",
+              "DocumentMoniker": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo\\ToDoItem.cs",
+              "RelativeDocumentMoniker": "ToDo\\ToDoItem.cs",
+              "ToolTip": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo\\ToDoItem.cs",
+              "RelativeToolTip": "ToDo\\ToDoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T09:53:55.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IToDoItemRepository.cs",
+              "DocumentMoniker": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo\\IToDoItemRepository.cs",
+              "RelativeDocumentMoniker": "ToDo\\IToDoItemRepository.cs",
+              "ToolTip": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo\\IToDoItemRepository.cs",
+              "RelativeToolTip": "ToDo\\IToDoItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T09:59:57.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoService.cs",
+              "DocumentMoniker": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo\\ToDoService.cs",
+              "RelativeDocumentMoniker": "ToDo\\ToDoService.cs",
+              "ToolTip": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo\\ToDoService.cs",
+              "RelativeToolTip": "ToDo\\ToDoService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T09:53:59.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.WpfApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ToDo.WpfApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.WpfApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ToDo.WpfApp\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T11:08:32.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDoItemViewModel.cs",
+              "DocumentMoniker": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.WpfApp\\ViewModels\\ToDoItemViewModel.cs",
+              "RelativeDocumentMoniker": "ToDo.WpfApp\\ViewModels\\ToDoItemViewModel.cs",
+              "ToolTip": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.WpfApp\\ViewModels\\ToDoItemViewModel.cs",
+              "RelativeToolTip": "ToDo.WpfApp\\ViewModels\\ToDoItemViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T11:08:42.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.WpfApp\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "ToDo.WpfApp\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.WpfApp\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "ToDo.WpfApp\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T10:53:38.724Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

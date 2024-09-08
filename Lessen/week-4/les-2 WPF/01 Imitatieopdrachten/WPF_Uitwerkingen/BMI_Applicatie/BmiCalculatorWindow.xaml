@@ -1,0 +1,18 @@
+﻿<Window x:Name="BMI_CalculatorForm" x:Class="BMI_Applicatie_Dialog.BmiCalculatorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BMI_Applicatie_Dialog"
+        mc:Ignorable="d"
+        Title="BMI Calculator" Height="154" Width="255">
+    <Grid>
+        <Label x:Name="label" Content="Lengte in cm:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Gewicht in kg:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="LengteInCmTextBox" HorizontalAlignment="Left" Margin="107,14,0,0" TextWrapping="Wrap" Text="181" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="GewichtInKgTextBox" HorizontalAlignment="Left" Margin="107,49,0,0" TextWrapping="Wrap" Text="70" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="BerekenBmiButton" Content="Bereken BMI" HorizontalAlignment="Left" Margin="13,94,0,0" VerticalAlignment="Top" Width="78" Click="BerekenBmiButton_Click"/>
+        <Label x:Name="BmiResultaatLabel" Content="" HorizontalAlignment="Left" Margin="107,91,0,0" VerticalAlignment="Top" Width="120" BorderBrush="Black" BorderThickness="1,1,1,1"/>
+
+    </Grid>
+</Window>

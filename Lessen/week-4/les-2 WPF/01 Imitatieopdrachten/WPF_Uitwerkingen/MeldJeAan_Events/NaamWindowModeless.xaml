@@ -1,0 +1,15 @@
+﻿<Window x:Class="MeldJeAan_Events.NaamWindowModeless"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MeldJeAan_Events"
+        mc:Ignorable="d"
+        Title="Naam Window" Height="105" Width="276">
+    <Grid>
+        <Label x:Name="label" Content="Wat is de naam?" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.446,-0.384"/>
+        <TextBox x:Name="NaamTextBox" HorizontalAlignment="Left" Margin="124,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="VoegToeButton" Content="Voeg toe" HorizontalAlignment="Left" Margin="124,45,0,0" VerticalAlignment="Top" Width="120" Click="VoegToeButton_Click"/>
+
+    </Grid>
+</Window>

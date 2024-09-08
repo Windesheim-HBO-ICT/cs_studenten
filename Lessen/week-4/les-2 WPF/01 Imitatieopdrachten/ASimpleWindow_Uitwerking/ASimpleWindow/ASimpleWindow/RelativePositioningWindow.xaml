@@ -1,0 +1,14 @@
+﻿<Window x:Class="ASimpleWindow.RelativePositioningWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ASimpleWindow"
+        mc:Ignorable="d"
+        Title="Relative Positioning Window" Height="140" Width="250">
+    <Grid>
+        <TextBox x:Name="textBox" Margin="31,36,25,69" TextWrapping="Wrap" Text="TextBox"/>
+        <Button x:Name="MaakRood" Content="Button" Margin="142,0,25,19" Height="20" VerticalAlignment="Bottom"/>
+
+    </Grid>
+</Window>
