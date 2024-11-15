@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ToDo
-build_property.ProjectDir = E:\03_Vakken\OOSDD\Programmeren in C# V24-25 S1\GIT\Referentie Architectuur\todo\ToDoSolution\ToDo\
+build_property.ProjectDir = E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

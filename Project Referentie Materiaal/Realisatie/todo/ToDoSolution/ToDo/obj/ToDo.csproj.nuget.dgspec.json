@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo\\ToDo.csproj": {}
+    "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo\\ToDo.csproj": {}
   },
   "projects": {
-    "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo\\ToDo.csproj": {
+    "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo\\ToDo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo\\ToDo.csproj",
+        "projectUniqueName": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo\\ToDo.csproj",
         "projectName": "ToDo",
-        "projectPath": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo\\ToDo.csproj",
+        "projectPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo\\ToDo.csproj",
         "packagesPath": "C:\\Users\\johnb\\.nuget\\packages\\",
-        "outputPath": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo\\obj\\",
+        "outputPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

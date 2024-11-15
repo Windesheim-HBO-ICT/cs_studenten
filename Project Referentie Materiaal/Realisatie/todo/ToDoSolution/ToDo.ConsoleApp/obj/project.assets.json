@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.ConsoleApp\\ToDo.ConsoleApp.csproj",
+      "projectUniqueName": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo.ConsoleApp\\ToDo.ConsoleApp.csproj",
       "projectName": "ToDo.ConsoleApp",
-      "projectPath": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.ConsoleApp\\ToDo.ConsoleApp.csproj",
+      "projectPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo.ConsoleApp\\ToDo.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\johnb\\.nuget\\packages\\",
-      "outputPath": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.ConsoleApp\\obj\\",
+      "outputPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -78,11 +78,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.DataAccess.InMemory\\ToDo.DataAccess.InMemory.csproj": {
-              "projectPath": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo.DataAccess.InMemory\\ToDo.DataAccess.InMemory.csproj"
+            "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo.DataAccess.InMemory\\ToDo.DataAccess.InMemory.csproj": {
+              "projectPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo.DataAccess.InMemory\\ToDo.DataAccess.InMemory.csproj"
             },
-            "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo\\ToDo.csproj": {
-              "projectPath": "E:\\03_Vakken\\OOSDD\\Programmeren in C# V24-25 S1\\GIT\\Referentie Architectuur\\todo\\ToDoSolution\\ToDo\\ToDo.csproj"
+            "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo\\ToDo.csproj": {
+              "projectPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo\\ToDo.csproj"
             }
           }
         }
@@ -117,7 +117,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

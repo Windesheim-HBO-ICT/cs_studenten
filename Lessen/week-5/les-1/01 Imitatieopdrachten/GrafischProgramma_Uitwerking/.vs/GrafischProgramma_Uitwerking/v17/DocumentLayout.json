@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\week-5\\les-1\\01 Imitatieopdrachten\\GrafischProgramma_Uitwerking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE8C250-88EA-465B-80D8-0D251FCC5322}|GrafischProgramma_2\\GrafischProgramma_2.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\lessen\\week-5\\les-1\\01 imitatieopdrachten\\grafischprogramma_uitwerking\\grafischprogramma_2\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE8C250-88EA-465B-80D8-0D251FCC5322}|GrafischProgramma_2\\GrafischProgramma_2.csproj|solutionrelative:grafischprogramma_2\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE8C250-88EA-465B-80D8-0D251FCC5322}|GrafischProgramma_2\\GrafischProgramma_2.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\lessen\\week-5\\les-1\\01 imitatieopdrachten\\grafischprogramma_uitwerking\\grafischprogramma_2\\modelchangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE8C250-88EA-465B-80D8-0D251FCC5322}|GrafischProgramma_2\\GrafischProgramma_2.csproj|solutionrelative:grafischprogramma_2\\modelchangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:404753593:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:672601558:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:574447530:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1830991897:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2014274571:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:701435136:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:447509489:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:682047272:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:897210317:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1816150937:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:353698404:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1102755583:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2049163822:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1259862943:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:189410536:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1985116341:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelChangedEventArgs.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\week-5\\les-1\\01 Imitatieopdrachten\\GrafischProgramma_Uitwerking\\GrafischProgramma_2\\ModelChangedEventArgs.cs",
+              "RelativeDocumentMoniker": "GrafischProgramma_2\\ModelChangedEventArgs.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\week-5\\les-1\\01 Imitatieopdrachten\\GrafischProgramma_Uitwerking\\GrafischProgramma_2\\ModelChangedEventArgs.cs",
+              "RelativeToolTip": "GrafischProgramma_2\\ModelChangedEventArgs.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:59:12.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\week-5\\les-1\\01 Imitatieopdrachten\\GrafischProgramma_Uitwerking\\GrafischProgramma_2\\Model.cs",
+              "RelativeDocumentMoniker": "GrafischProgramma_2\\Model.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\week-5\\les-1\\01 Imitatieopdrachten\\GrafischProgramma_Uitwerking\\GrafischProgramma_2\\Model.cs",
+              "RelativeToolTip": "GrafischProgramma_2\\Model.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:59:07.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

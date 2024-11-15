@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\week-6\\les-1\\03 Huiswerkopdrachten\\Uitwerking_CarServicing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{111F1D29-402D-4207-850E-A87DD1A9466F}|CarServicingConsole\\CarServicingConsole.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\lessen\\week-6\\les-1\\03 huiswerkopdrachten\\uitwerking_carservicing\\carservicingconsole\\servicecompanies\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111F1D29-402D-4207-850E-A87DD1A9466F}|CarServicingConsole\\CarServicingConsole.csproj|solutionrelative:carservicingconsole\\servicecompanies\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111F1D29-402D-4207-850E-A87DD1A9466F}|CarServicingConsole\\CarServicingConsole.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\lessen\\week-6\\les-1\\03 huiswerkopdrachten\\uitwerking_carservicing\\carservicingconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111F1D29-402D-4207-850E-A87DD1A9466F}|CarServicingConsole\\CarServicingConsole.csproj|solutionrelative:carservicingconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:404753593:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:672601558:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:574447530:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1830991897:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2014274571:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:701435136:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:447509489:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:682047272:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:897210317:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1816150937:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:353698404:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1102755583:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2049163822:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1259862943:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:189410536:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1985116341:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\week-6\\les-1\\03 Huiswerkopdrachten\\Uitwerking_CarServicing\\CarServicingConsole\\Program.cs",
+              "RelativeDocumentMoniker": "CarServicingConsole\\Program.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\week-6\\les-1\\03 Huiswerkopdrachten\\Uitwerking_CarServicing\\CarServicingConsole\\Program.cs",
+              "RelativeToolTip": "CarServicingConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:00:00.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Garage.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\week-6\\les-1\\03 Huiswerkopdrachten\\Uitwerking_CarServicing\\CarServicingConsole\\ServiceCompanies\\Garage.cs",
+              "RelativeDocumentMoniker": "CarServicingConsole\\ServiceCompanies\\Garage.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\week-6\\les-1\\03 Huiswerkopdrachten\\Uitwerking_CarServicing\\CarServicingConsole\\ServiceCompanies\\Garage.cs",
+              "RelativeToolTip": "CarServicingConsole\\ServiceCompanies\\Garage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:59:27.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
