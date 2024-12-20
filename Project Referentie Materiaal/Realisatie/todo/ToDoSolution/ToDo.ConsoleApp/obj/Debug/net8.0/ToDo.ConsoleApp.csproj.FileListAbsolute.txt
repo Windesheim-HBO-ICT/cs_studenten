@@ -19,3 +19,24 @@ E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.ConsoleApp\obj\De
 E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.ConsoleApp\obj\Debug\net8.0\ToDo.ConsoleApp.pdb
 E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.ConsoleApp\obj\Debug\net8.0\ToDo.ConsoleApp.genruntimeconfig.cache
 E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.ConsoleApp\obj\Debug\net8.0\ref\ToDo.ConsoleApp.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\bin\Debug\net8.0\ToDo.ConsoleApp.exe
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\bin\Debug\net8.0\ToDo.ConsoleApp.deps.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\bin\Debug\net8.0\ToDo.ConsoleApp.runtimeconfig.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\bin\Debug\net8.0\ToDo.ConsoleApp.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\bin\Debug\net8.0\ToDo.ConsoleApp.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\bin\Debug\net8.0\ToDo.DataAccess.InMemory.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\bin\Debug\net8.0\ToDo.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\bin\Debug\net8.0\ToDo.DataAccess.InMemory.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\bin\Debug\net8.0\ToDo.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\obj\Debug\net8.0\ToDo.ConsoleApp.csproj.AssemblyReference.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\obj\Debug\net8.0\ToDo.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\obj\Debug\net8.0\ToDo.ConsoleApp.AssemblyInfoInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\obj\Debug\net8.0\ToDo.ConsoleApp.AssemblyInfo.cs
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\obj\Debug\net8.0\ToDo.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\obj\Debug\net8.0\ToDo.ConsoleApp.sourcelink.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\obj\Debug\net8.0\ToDo.Con.7E5719D1.Up2Date
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\obj\Debug\net8.0\ToDo.ConsoleApp.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\obj\Debug\net8.0\refint\ToDo.ConsoleApp.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\obj\Debug\net8.0\ToDo.ConsoleApp.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\obj\Debug\net8.0\ToDo.ConsoleApp.genruntimeconfig.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.ConsoleApp\obj\Debug\net8.0\ref\ToDo.ConsoleApp.dll

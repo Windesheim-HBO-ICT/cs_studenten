@@ -14,3 +14,19 @@ E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.InMemo
 E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.InMemory\obj\Debug\net8.0\refint\ToDo.DataAccess.InMemory.dll
 E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.InMemory\obj\Debug\net8.0\ToDo.DataAccess.InMemory.pdb
 E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo.DataAccess.InMemory\obj\Debug\net8.0\ref\ToDo.DataAccess.InMemory.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.DataAccess.InMemory\bin\Debug\net8.0\ToDo.DataAccess.InMemory.deps.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.DataAccess.InMemory\bin\Debug\net8.0\ToDo.DataAccess.InMemory.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.DataAccess.InMemory\bin\Debug\net8.0\ToDo.DataAccess.InMemory.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.DataAccess.InMemory\bin\Debug\net8.0\ToDo.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.DataAccess.InMemory\bin\Debug\net8.0\ToDo.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.DataAccess.InMemory\obj\Debug\net8.0\ToDo.DataAccess.InMemory.csproj.AssemblyReference.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.DataAccess.InMemory\obj\Debug\net8.0\ToDo.DataAccess.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.DataAccess.InMemory\obj\Debug\net8.0\ToDo.DataAccess.InMemory.AssemblyInfoInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.DataAccess.InMemory\obj\Debug\net8.0\ToDo.DataAccess.InMemory.AssemblyInfo.cs
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.DataAccess.InMemory\obj\Debug\net8.0\ToDo.DataAccess.InMemory.csproj.CoreCompileInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.DataAccess.InMemory\obj\Debug\net8.0\ToDo.DataAccess.InMemory.sourcelink.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.DataAccess.InMemory\obj\Debug\net8.0\ToDo.Dat.4F052890.Up2Date
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.DataAccess.InMemory\obj\Debug\net8.0\ToDo.DataAccess.InMemory.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.DataAccess.InMemory\obj\Debug\net8.0\refint\ToDo.DataAccess.InMemory.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.DataAccess.InMemory\obj\Debug\net8.0\ToDo.DataAccess.InMemory.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo.DataAccess.InMemory\obj\Debug\net8.0\ref\ToDo.DataAccess.InMemory.dll

@@ -10,3 +10,15 @@ E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo\obj\Debug\net8.0\
 E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo\obj\Debug\net8.0\refint\ToDo.dll
 E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo\obj\Debug\net8.0\ToDo.pdb
 E:\GIT\OOSDD-23-24\v1\cs_studenten\demo\todo\ToDoSolution\ToDo\obj\Debug\net8.0\ref\ToDo.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo\bin\Debug\net8.0\ToDo.deps.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo\bin\Debug\net8.0\ToDo.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo\bin\Debug\net8.0\ToDo.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo\obj\Debug\net8.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfoInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfo.cs
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo\obj\Debug\net8.0\ToDo.csproj.CoreCompileInputs.cache
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo\obj\Debug\net8.0\ToDo.sourcelink.json
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo\obj\Debug\net8.0\ToDo.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo\obj\Debug\net8.0\refint\ToDo.dll
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo\obj\Debug\net8.0\ToDo.pdb
+E:\GIT\OOSDD-23-24\v1\cs_studenten\Project Referentie Materiaal\Realisatie\todo\ToDoSolution\ToDo\obj\Debug\net8.0\ref\ToDo.dll

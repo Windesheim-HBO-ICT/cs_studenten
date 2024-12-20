@@ -16,7 +16,10 @@
       },
       "ToDo/1.0.0": {
         "runtime": {
-          "ToDo.dll": {}
+          "ToDo.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

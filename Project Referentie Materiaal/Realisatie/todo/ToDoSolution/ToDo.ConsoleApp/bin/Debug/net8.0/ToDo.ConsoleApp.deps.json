@@ -17,7 +17,10 @@
       },
       "ToDo/1.0.0": {
         "runtime": {
-          "ToDo.dll": {}
+          "ToDo.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "ToDo.DataAccess.InMemory/1.0.0": {
@@ -25,7 +28,10 @@
           "ToDo": "1.0.0"
         },
         "runtime": {
-          "ToDo.DataAccess.InMemory.dll": {}
+          "ToDo.DataAccess.InMemory.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

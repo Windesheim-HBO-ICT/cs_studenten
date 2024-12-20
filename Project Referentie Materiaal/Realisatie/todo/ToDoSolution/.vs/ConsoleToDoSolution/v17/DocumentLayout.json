@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{EE4AC7DA-09BF-42A2-8044-C580465E06BF}|ToDo.DataAccess.InMemory\\ToDo.DataAccess.InMemory.csproj|solutionrelative:todo.dataaccess.inmemory\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CEF5E590-9BC6-426E-BBD4-9978AB666E38}|ToDo\\ToDo.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\project referentie materiaal\\realisatie\\todo\\todosolution\\todo\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF5E590-9BC6-426E-BBD4-9978AB666E38}|ToDo\\ToDo.csproj|solutionrelative:todo\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CEF5E590-9BC6-426E-BBD4-9978AB666E38}|ToDo\\ToDo.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\project referentie materiaal\\realisatie\\todo\\todosolution\\todo\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEF5E590-9BC6-426E-BBD4-9978AB666E38}|ToDo\\ToDo.csproj|solutionrelative:todo\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEF5E590-9BC6-426E-BBD4-9978AB666E38}|ToDo\\ToDo.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\project referentie materiaal\\realisatie\\todo\\todosolution\\todo\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEF5E590-9BC6-426E-BBD4-9978AB666E38}|ToDo\\ToDo.csproj|solutionrelative:todo\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEF5E590-9BC6-426E-BBD4-9978AB666E38}|ToDo\\ToDo.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\project referentie materiaal\\realisatie\\todo\\todosolution\\todo\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEF5E590-9BC6-426E-BBD4-9978AB666E38}|ToDo\\ToDo.csproj|solutionrelative:todo\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E01E65F-04BC-4F8B-B135-3FE794CEB790}|ToDoTests\\ToDoTests.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\project referentie materiaal\\realisatie\\todo\\todosolution\\todotests\\moq_todoitemtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -117,6 +117,14 @@
               "Name": "ST:1985116341:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1031766033:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32544:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ToDoRepository.cs",
@@ -124,20 +132,20 @@
               "RelativeDocumentMoniker": "ToDo.DataAccess.InMemory\\ToDoRepository.cs",
               "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo.DataAccess.InMemory\\ToDoRepository.cs",
               "RelativeToolTip": "ToDo.DataAccess.InMemory\\ToDoRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvwwAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-14T13:00:17.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "IToDoItemRepository.cs",
               "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo\\IToDoItemRepository.cs",
               "RelativeDocumentMoniker": "ToDo\\IToDoItemRepository.cs",
               "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo\\IToDoItemRepository.cs",
               "RelativeToolTip": "ToDo\\IToDoItemRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-14T12:59:48.742Z",
               "EditorCaption": ""
@@ -150,27 +158,26 @@
               "RelativeDocumentMoniker": "ToDo.ConsoleApp\\Program.cs",
               "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo.ConsoleApp\\Program.cs",
               "RelativeToolTip": "ToDo.ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-01-31T11:54:20.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ToDoService.cs",
               "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo\\ToDoService.cs",
               "RelativeDocumentMoniker": "ToDo\\ToDoService.cs",
               "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo\\ToDoService.cs",
               "RelativeToolTip": "ToDo\\ToDoService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwB0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-14T12:56:18.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-14T12:56:18.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ToDoItem.cs",
               "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo\\ToDoItem.cs",
               "RelativeDocumentMoniker": "ToDo\\ToDoItem.cs",
@@ -178,8 +185,7 @@
               "RelativeToolTip": "ToDo\\ToDoItem.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA3wBAAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-19T09:49:02.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-19T09:49:02.608Z"
             },
             {
               "$type": "Document",
@@ -191,8 +197,7 @@
               "RelativeToolTip": "ToDoTests\\Moq_ToDoItemTest.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-14T13:06:25.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-14T13:06:25.874Z"
             },
             {
               "$type": "Document",
@@ -215,8 +220,7 @@
               "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDo\\ToDo.csproj",
               "RelativeToolTip": "ToDo\\ToDo.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-14T12:52:17.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-14T12:52:17.504Z"
             },
             {
               "$type": "Document",
