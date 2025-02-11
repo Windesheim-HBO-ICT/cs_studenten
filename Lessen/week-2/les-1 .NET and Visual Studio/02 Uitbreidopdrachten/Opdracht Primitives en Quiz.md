@@ -8,7 +8,7 @@
 In deze opdracht zul je een eenvoudig quizspel ontwikkelen waarin je gebruikmaakt van primitieve gegevenstypen in C#. Het spel zal de speler een reeks vragen stellen en de antwoorden evalueren om de uiteindelijke score te berekenen.
 
 ### Functionele Eisen
-- Stel ten minste vijf vragen aan de speler met meerkeuzeantwoorden.
+- Stel tenminste vijf vragen aan de speler met meerkeuzeantwoorden.
 - Geef de speler de mogelijkheid om antwoorden te selecteren door de relevante toetsen in te drukken (bijv. A, B, C, D).
 - Evalueer de gegeven antwoorden en bereken de score van de speler.
 - Toon aan het einde van het spel de score van de speler.
