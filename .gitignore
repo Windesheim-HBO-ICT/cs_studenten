@@ -37,7 +37,7 @@
 */*.[Pp]ublish.xml
 */*.[Pp]ublish.ps1
 */*.[Pp]ublish.targets
-*/.vs/
+*/*.vs
 
 # Build results
 */[Dd]ebug/
