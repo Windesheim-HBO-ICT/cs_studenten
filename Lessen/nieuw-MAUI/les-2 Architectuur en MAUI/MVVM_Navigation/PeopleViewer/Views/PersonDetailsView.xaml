@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:PeopleViewer.ViewModels"
+             x:Class="PeopleViewer.Views.PersonDetailsView"
+             x:DataType="vm:PersonDetailsViewModel"
+             Title="Person Details">
+
+
+    <ContentPage.BindingContext>
+        <vm:PersonDetailsViewModel />
+    </ContentPage.BindingContext>
+
+    <VerticalStackLayout HorizontalOptions="Center">
+        <Label Text="{Binding FirstName}" />
+        <Label Text="{Binding Lastname}" />
+        <Label Text="{Binding DateOfBirth}" />
+        <Label Text="{Binding PlaceOfBirth}" />        
+    </VerticalStackLayout>
+    
+</ContentPage>

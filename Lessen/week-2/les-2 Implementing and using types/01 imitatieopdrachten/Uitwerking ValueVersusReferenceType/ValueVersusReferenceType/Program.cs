@@ -1,5 +1,6 @@
 ﻿
 
+
 PersonStruct marie = new PersonStruct();
 marie.Name = "Marie";
 PersonStruct marietje = marie;

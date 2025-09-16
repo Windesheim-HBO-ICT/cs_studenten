@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:PeopleViewer.ViewModels"
+             xmlns:m="clr-namespace:PeopleViewer.Models"
+             x:Class="PeopleViewer.Views.PeopleView"
+             x:DataType="vm:PeopleViewModel"
+             Title="People">
+    
+    <ContentPage.BindingContext>
+        <vm:PeopleViewModel />
+    </ContentPage.BindingContext>
+    
+    <CollectionView 
+        ItemsSource="{Binding People}" 
+        SelectionMode="Single" 
+        SelectionChangedCommand="{Binding SelectionChangedCommand}"
+        SelectionChangedCommandParameter="{Binding SelectedItem, Source={RelativeSource Self}}" >
+        
+        <CollectionView.ItemTemplate>
+            <DataTemplate x:DataType="m:Person">
+                <HorizontalStackLayout HorizontalOptions="Center">
+                    <Label Text="{Binding FirstName}" />
+                    <Label Text="{Binding Lastname}" />
+                </HorizontalStackLayout>                
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+    </CollectionView>
+
+</ContentPage>
