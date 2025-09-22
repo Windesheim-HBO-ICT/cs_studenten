@@ -13,8 +13,11 @@
 
             <Label
                 Text="{Binding Name}"
-                Style="{StaticResource Headline}"
-                SemanticProperties.HeadingLevel="Level1" />
+                Style="{StaticResource Headline}" />
+
+            <Entry
+                Text="{Binding Name}"
+                Style="{StaticResource Headline}" />
 
             <Label
                 Text="Welcome to &#10;.NET Multi-platform App UI"

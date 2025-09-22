@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36429.23 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonNameViewer", "PersonNameViewer\PersonNameViewer.csproj", "{5E1939DD-07CC-4205-83A7-F04C75CFF66A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonNameViewer", "PersonNameViewer\PersonNameViewer.csproj", "{B339C887-D79A-49B8-B9F6-40617EC2171C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5E1939DD-07CC-4205-83A7-F04C75CFF66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5E1939DD-07CC-4205-83A7-F04C75CFF66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5E1939DD-07CC-4205-83A7-F04C75CFF66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5E1939DD-07CC-4205-83A7-F04C75CFF66A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B339C887-D79A-49B8-B9F6-40617EC2171C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B339C887-D79A-49B8-B9F6-40617EC2171C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B339C887-D79A-49B8-B9F6-40617EC2171C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B339C887-D79A-49B8-B9F6-40617EC2171C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B339C887-D79A-49B8-B9F6-40617EC2171C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B339C887-D79A-49B8-B9F6-40617EC2171C}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B6969C43-6527-41E5-8373-2BF2BC26E72A}
+		SolutionGuid = {45C3382F-6B17-453B-BFC0-8A9D621DA032}
 	EndGlobalSection
 EndGlobal
