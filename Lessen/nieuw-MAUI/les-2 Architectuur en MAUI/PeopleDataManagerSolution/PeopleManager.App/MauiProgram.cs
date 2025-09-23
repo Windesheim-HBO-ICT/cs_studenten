@@ -23,7 +23,7 @@ namespace PeopleManager.App
                 });
 
 #if DEBUG
-    		builder.Logging.AddDebug();
+            builder.Logging.AddDebug();
 #endif
 
             //Next code will result into a path like:

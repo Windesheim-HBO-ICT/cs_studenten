@@ -21,7 +21,7 @@ namespace PeopleManager.App
                 });
 
 #if DEBUG
-    		builder.Logging.AddDebug();
+            builder.Logging.AddDebug();
 #endif
 
             //builder.Services.AddSingleton<PeopleService>();

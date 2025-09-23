@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22
+VisualStudioVersion = 17.14.36511.14 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleManager.Core", "PeopleManager.Core\PeopleManager.Core.csproj", "{560486BB-E921-4624-B849-683414BCDDC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleManager.App", "PeopleManager.App\PeopleManager.App.csproj", "{EACE7540-41FF-4BBD-B2D3-EE8165CBD491}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleManager.App", "PeopleManager.App\PeopleManager.App.csproj", "{AFD77A0E-BE06-482A-B5CB-27D4AFEF33E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleManager.Core", "PeopleManager.Core\PeopleManager.Core.csproj", "{F283B1C6-2F66-9EDC-5850-EF9FE5BDA890}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleManager.Data.Sqlite", "PeopleManager.Data.Sqlite\PeopleManager.Data.Sqlite.csproj", "{4B1C9F28-DA69-4EF4-8C4B-609ED38F391E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleManager.Data.Sqlite", "PeopleManager.Data.Sqlite\PeopleManager.Data.Sqlite.csproj", "{3C7C7513-8764-D2EC-F251-DA60D05AD45B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,23 +15,25 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{560486BB-E921-4624-B849-683414BCDDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{560486BB-E921-4624-B849-683414BCDDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{560486BB-E921-4624-B849-683414BCDDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{560486BB-E921-4624-B849-683414BCDDC7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AFD77A0E-BE06-482A-B5CB-27D4AFEF33E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AFD77A0E-BE06-482A-B5CB-27D4AFEF33E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AFD77A0E-BE06-482A-B5CB-27D4AFEF33E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AFD77A0E-BE06-482A-B5CB-27D4AFEF33E2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4B1C9F28-DA69-4EF4-8C4B-609ED38F391E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4B1C9F28-DA69-4EF4-8C4B-609ED38F391E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4B1C9F28-DA69-4EF4-8C4B-609ED38F391E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4B1C9F28-DA69-4EF4-8C4B-609ED38F391E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EACE7540-41FF-4BBD-B2D3-EE8165CBD491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACE7540-41FF-4BBD-B2D3-EE8165CBD491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACE7540-41FF-4BBD-B2D3-EE8165CBD491}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EACE7540-41FF-4BBD-B2D3-EE8165CBD491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACE7540-41FF-4BBD-B2D3-EE8165CBD491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EACE7540-41FF-4BBD-B2D3-EE8165CBD491}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F283B1C6-2F66-9EDC-5850-EF9FE5BDA890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F283B1C6-2F66-9EDC-5850-EF9FE5BDA890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F283B1C6-2F66-9EDC-5850-EF9FE5BDA890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F283B1C6-2F66-9EDC-5850-EF9FE5BDA890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C7C7513-8764-D2EC-F251-DA60D05AD45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7C7513-8764-D2EC-F251-DA60D05AD45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7C7513-8764-D2EC-F251-DA60D05AD45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7C7513-8764-D2EC-F251-DA60D05AD45B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B754FF4A-3412-43BE-82A9-2B8073580E0C}
+		SolutionGuid = {EE519A5F-0A9E-4E37-9886-0C3AFED5075B}
 	EndGlobalSection
 EndGlobal

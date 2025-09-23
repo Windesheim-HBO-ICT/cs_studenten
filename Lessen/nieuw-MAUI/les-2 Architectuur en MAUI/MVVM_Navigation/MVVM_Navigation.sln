@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36511.14 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleViewer", "PeopleViewer\PeopleViewer.csproj", "{2B8FD8AF-DC04-4CF7-9463-36BE2F81EDDC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleViewer", "PeopleViewer\PeopleViewer.csproj", "{620A4E56-0E09-406D-AC66-85BDE18A2DF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2B8FD8AF-DC04-4CF7-9463-36BE2F81EDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2B8FD8AF-DC04-4CF7-9463-36BE2F81EDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2B8FD8AF-DC04-4CF7-9463-36BE2F81EDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2B8FD8AF-DC04-4CF7-9463-36BE2F81EDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620A4E56-0E09-406D-AC66-85BDE18A2DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620A4E56-0E09-406D-AC66-85BDE18A2DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620A4E56-0E09-406D-AC66-85BDE18A2DF6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{620A4E56-0E09-406D-AC66-85BDE18A2DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620A4E56-0E09-406D-AC66-85BDE18A2DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620A4E56-0E09-406D-AC66-85BDE18A2DF6}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BAB9CF04-70BA-4767-9D52-C5BA006DDC7C}
+		SolutionGuid = {52537603-DF28-4F50-9279-F1282FD6061D}
 	EndGlobalSection
 EndGlobal
