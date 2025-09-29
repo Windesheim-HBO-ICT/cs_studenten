@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\PeopleManagerSolution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69DF9E-FD58-44E0-9327-6E5E78B35884}|PeopleManager.App\\PeopleManager.App.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\lessen\\nieuw-maui\\les-2 architectuur en maui\\peoplemanagersolution\\peoplemanager.app\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C69DF9E-FD58-44E0-9327-6E5E78B35884}|PeopleManager.App\\PeopleManager.App.csproj|solutionrelative:peoplemanager.app\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F283B1C6-2F66-9EDC-5850-EF9FE5BDA890}|PeopleManager.Core\\PeopleManager.Core.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\lessen\\nieuw-maui\\les-2 architectuur en maui\\peoplemanagersolution\\peoplemanager.core\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F283B1C6-2F66-9EDC-5850-EF9FE5BDA890}|PeopleManager.Core\\PeopleManager.Core.csproj|solutionrelative:peoplemanager.core\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69DF9E-FD58-44E0-9327-6E5E78B35884}|PeopleManager.App\\PeopleManager.App.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\lessen\\nieuw-maui\\les-2 architectuur en maui\\peoplemanagersolution\\peoplemanager.app\\viewmodels\\peopleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C69DF9E-FD58-44E0-9327-6E5E78B35884}|PeopleManager.App\\PeopleManager.App.csproj|solutionrelative:peoplemanager.app\\viewmodels\\peopleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69DF9E-FD58-44E0-9327-6E5E78B35884}|PeopleManager.App\\PeopleManager.App.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\lessen\\nieuw-maui\\les-2 architectuur en maui\\peoplemanagersolution\\peoplemanager.app\\views\\peopleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C69DF9E-FD58-44E0-9327-6E5E78B35884}|PeopleManager.App\\PeopleManager.App.csproj|solutionrelative:peoplemanager.app\\views\\peopleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 28,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,6 +139,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1750563526:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\PeopleManagerSolution\\PeopleManager.App\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "PeopleManager.App\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\PeopleManagerSolution\\PeopleManager.App\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "PeopleManager.App\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAKIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-29T09:04:40.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\PeopleManagerSolution\\PeopleManager.Core\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "PeopleManager.Core\\Models\\Person.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\PeopleManagerSolution\\PeopleManager.Core\\Models\\Person.cs",
+              "RelativeToolTip": "PeopleManager.Core\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:57:54.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PeopleView.xaml",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\PeopleManagerSolution\\PeopleManager.App\\Views\\PeopleView.xaml",
+              "RelativeDocumentMoniker": "PeopleManager.App\\Views\\PeopleView.xaml",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\PeopleManagerSolution\\PeopleManager.App\\Views\\PeopleView.xaml",
+              "RelativeToolTip": "PeopleManager.App\\Views\\PeopleView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-29T08:44:35.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeopleViewModel.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\PeopleManagerSolution\\PeopleManager.App\\ViewModels\\PeopleViewModel.cs",
+              "RelativeDocumentMoniker": "PeopleManager.App\\ViewModels\\PeopleViewModel.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\PeopleManagerSolution\\PeopleManager.App\\ViewModels\\PeopleViewModel.cs",
+              "RelativeToolTip": "PeopleManager.App\\ViewModels\\PeopleViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:44:22.212Z",
+              "EditorCaption": ""
             }
           ]
         }

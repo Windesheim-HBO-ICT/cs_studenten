@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\MVVM_Navigation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{620A4E56-0E09-406D-AC66-85BDE18A2DF6}|PeopleViewer\\PeopleViewer.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\lessen\\nieuw-maui\\les-2 architectuur en maui\\mvvm_navigation\\peopleviewer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620A4E56-0E09-406D-AC66-85BDE18A2DF6}|PeopleViewer\\PeopleViewer.csproj|solutionrelative:peopleviewer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620A4E56-0E09-406D-AC66-85BDE18A2DF6}|PeopleViewer\\PeopleViewer.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\lessen\\nieuw-maui\\les-2 architectuur en maui\\mvvm_navigation\\peopleviewer\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620A4E56-0E09-406D-AC66-85BDE18A2DF6}|PeopleViewer\\PeopleViewer.csproj|solutionrelative:peopleviewer\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620A4E56-0E09-406D-AC66-85BDE18A2DF6}|PeopleViewer\\PeopleViewer.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\lessen\\nieuw-maui\\les-2 architectuur en maui\\mvvm_navigation\\peopleviewer\\viewmodels\\persondetailsviewmodel_iqa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620A4E56-0E09-406D-AC66-85BDE18A2DF6}|PeopleViewer\\PeopleViewer.csproj|solutionrelative:peopleviewer\\viewmodels\\persondetailsviewmodel_iqa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620A4E56-0E09-406D-AC66-85BDE18A2DF6}|PeopleViewer\\PeopleViewer.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\lessen\\nieuw-maui\\les-2 architectuur en maui\\mvvm_navigation\\peopleviewer\\viewmodels\\peopleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620A4E56-0E09-406D-AC66-85BDE18A2DF6}|PeopleViewer\\PeopleViewer.csproj|solutionrelative:peopleviewer\\viewmodels\\peopleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620A4E56-0E09-406D-AC66-85BDE18A2DF6}|PeopleViewer\\PeopleViewer.csproj|e:\\git\\oosdd-23-24\\v1\\cs_studenten\\lessen\\nieuw-maui\\les-2 architectuur en maui\\mvvm_navigation\\peopleviewer\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{620A4E56-0E09-406D-AC66-85BDE18A2DF6}|PeopleViewer\\PeopleViewer.csproj|solutionrelative:peopleviewer\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:404753593:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:672601558:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:574447530:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1830991897:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2014274571:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:701435136:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:447509489:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:682047272:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:897210317:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1816150937:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:353698404:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1102755583:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2049163822:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1259862943:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:189410536:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1985116341:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1031766033:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32544:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:317459379:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1150601922:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1035153314:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1718827646:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1716516811:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:595500875:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2074379425:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2131383862:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1750563526:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\MVVM_Navigation\\PeopleViewer\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PeopleViewer\\App.xaml.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\MVVM_Navigation\\PeopleViewer\\App.xaml.cs",
+              "RelativeToolTip": "PeopleViewer\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:17:57.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonDetailsViewModel_IQA.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\MVVM_Navigation\\PeopleViewer\\ViewModels\\PersonDetailsViewModel_IQA.cs",
+              "RelativeDocumentMoniker": "PeopleViewer\\ViewModels\\PersonDetailsViewModel_IQA.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\MVVM_Navigation\\PeopleViewer\\ViewModels\\PersonDetailsViewModel_IQA.cs",
+              "RelativeToolTip": "PeopleViewer\\ViewModels\\PersonDetailsViewModel_IQA.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowBEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:02:03.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PeopleViewModel.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\MVVM_Navigation\\PeopleViewer\\ViewModels\\PeopleViewModel.cs",
+              "RelativeDocumentMoniker": "PeopleViewer\\ViewModels\\PeopleViewModel.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\MVVM_Navigation\\PeopleViewer\\ViewModels\\PeopleViewModel.cs",
+              "RelativeToolTip": "PeopleViewer\\ViewModels\\PeopleViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:01:53.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\MVVM_Navigation\\PeopleViewer\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "PeopleViewer\\AppShell.xaml.cs",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\MVVM_Navigation\\PeopleViewer\\AppShell.xaml.cs",
+              "RelativeToolTip": "PeopleViewer\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:01:04.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\MVVM_Navigation\\PeopleViewer\\AppShell.xaml",
+              "RelativeDocumentMoniker": "PeopleViewer\\AppShell.xaml",
+              "ToolTip": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Lessen\\nieuw-MAUI\\les-2 Architectuur en MAUI\\MVVM_Navigation\\PeopleViewer\\AppShell.xaml",
+              "RelativeToolTip": "PeopleViewer\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-29T09:00:52.06Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

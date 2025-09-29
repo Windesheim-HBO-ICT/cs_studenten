@@ -9,7 +9,7 @@ namespace PeopleManager.App.ViewModels
     {
         private readonly PeopleService _peopleService;
 
-        public ObservableCollection<Person> PeopleCollection { get; private set; }
+        public ObservableCollection<Person> PeopleCollection { get; set; }
 
 
         public PeopleViewModel(PeopleService peopleService)
