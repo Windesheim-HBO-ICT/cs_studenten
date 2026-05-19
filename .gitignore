@@ -1,175 +1,139 @@
-.idea
-.git
-
-# Visual Studio Code
+# IDE folders
+.idea/
 .vscode/
-*.vscodeignore
+.vs/
 
-# Visual Studio files
-*/*.pdb
-*/*.exe
-*/*.dll
-*/*.obj
-*/*.user
-*/*.aps
-*/*.pch
-*/*.vspscc
-*/*_i.c
-*/*_p.c
-*/*.ncb
-*/*.suo
-*/*.tlb
-*/*.tlh
-*/*.bak
-*/*.[Cc]ache/
-*/*.ilk
-*/*.log
-*/*.lib
-*/*.sbr
-*/*.sdf
-*/ipch/
-*/[Bb]in/
-*/[Dd]ebug*/
-*/[Rr]elease*/
-*/_ReSharper*/
-*/[Tt]est[Rr]esult*/
-*/[Bb]uild[Ll]og.*
-*/*.[Pp]ublish.xml
-*/*.[Pp]ublish.ps1
-*/*.[Pp]ublish.targets
-*/*.vs
+# Git internals
+.git/
 
-# Build results
-*/[Dd]ebug/
-*/[Rr]elease/
-*/x64/
-*/build/
-*/[Bb]in/
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
 
-# NuGet Packages Directory
-## TODO: If you have NuGet Package Restore enabled, uncomment the next line 
-#packages/
+# Build output
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+artifacts/
+x64/
+x86/
+arm/
+arm64/
 
-# MSTest test Results Files
-*/[Tt]est[Rr]esult*/
+# Visual Studio cache & db
+.ipch/
+*.VC.db
+*.VC.VC.opendb
 
-#NUNIT 
-*/*.VisualState.xml
+# Visual Studio generated files
+*_i.c
+*_p.c
+*_h.h
+*_wpftmp.csproj
+*_wpftmp.sln
+*.tmp
+*.tmp_proj
+*.cache
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
 
-# Build Results of an ATL Project
-*/[Dd]ebugPS/
-*/[Rr]eleasePS/
-*/dlldata.c
+# MSBuild
+AppxManifest.xml
+BundleArtifacts/
+BundleAssemblies/
+TestResults/
+_build/
 
-# .NET Core 
-*/project.lock.json
-*/project.fragment.lock.json
-*/artifacts/
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
 
-# StyleCop 
-*/StyleCopReport.xml
+# .NET Core / .NET 5–10
+*.deps.json
+*.runtimeconfig.json
+*.runtimeconfig.dev.json
 
-# Files built by Visual Studio
-*/*_i.c 
-*/*_p.c 
-*/*_h.h 
-*/*.ilk 
-*/*.meta 
-*/*.obj 
-*/*.iobj 
-*/*.pch 
-*/*.pdb 
-*/*.ipdb 
-*/*.pgc 
-*/*.pgd 
-*/*.rsp 
-*/*.sbr 
-*/*.tlb 
-*/*.tli 
-*/*.tlh 
-*/*.tmp 
-*/*.tmp_proj 
-*/*_wpftmp.csproj 
-*/*_wpftmp.sln 
+# Publish output
+publish/
+*.Publish.xml
+*.Publish.ps1
+*.Publish.targets
+*.Publish.htm*
 
-# Files built by MSBuild (Visual Studio)
-*/AppxManifest.xml  
-*/BundleAssemblies/  
-*/ReleaseNotes.txt  
-*/_build/  
-*/bin/  
-*/obj/  
-*/TestResults/  
-*/[Bb]in/  
-*/[Dd]ebug*/  
-*/[Rr]elease*/  
-*/_ReSharper*/  
-*/[Tt]est[Rr]esult*/  
-*/packages/  
-*/artifacts/  
+# Azure
+csx/
+*_bin_deployableAssemblies/
+AzureWebJobsDashboard/
+AzureWebJobsStorage/
 
-# Chutzpah Test files  
-*/_Chutzpah*.*  
+# Web dependencies
+node_modules/
+bower_components/
 
-# Visual C++ cache files  
-*/ipch/  
+# Test frameworks
+*.VisualState.xml
+_Chutzpah*
+NCrunch_*
+*.coverage
+*.coveragexml
 
-# ReSharper is a .NET coding add-in  
-*/_ReSharper*/  
+# ReSharper / Rider
+_ReSharper*/
+*.DotSettings.user
 
-# NCrunch  
-*/_NCrunch_*.*  
+# StyleCop
+StyleCopReport.xml
 
-# Installshield output folder   
-*/[Ee]xpress/  
+# InstallShield
+[Ee]xpress/
 
-# DocProject is a documentation generator add-in  
-*/DocProject/buildhelp/  
-*/DocProject/Help/*.HxT  
-*/DocProject/Help/*.HxC  
-*/DocProject/Help/*.hhc  
-*/DocProject/Help/*.hhk  
-*/DocProject/Help/*.hhp  
-*/DocProject/Help/*.hpp  
+# DocProject
+DocProject/buildhelp/
+DocProject/Help/*
 
-# Click-Once directory  
-*/publish/  
+# ClickOnce
+publish/
 
-# Publish Web Output   
-*/*.[Pp]ublish.xml  
-*/*.[Pp]ublish.htm*  
-**/[Aa]pp_Data/*  
+# Web projects
+**/App_Data/
 
-# Microsoft Azure Build Output   
-*/csx   
-*/*_bin_deployableAssemblies   
-*/*_bin_deployableAssemblies/**   
-*/AzureWebJobsDashboard   
-*/AzureWebJobsDashboard/**   
-*/AzureWebJobsStorage   
-*/AzureWebJobsStorage/**   
-*/node_modules   
-*/bower_components   
-*/packages   
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.out
+*.app
 
-# Compiled Object files   
-*/.obj   
-*/.ipdb   
-*/.pdb   
-*/.dump   
+# Debug symbols
+*.dSYM/
 
-# Compiled Dynamic libraries   
-*/.so   
-*/.dylib   
+# Logs
+*.log
 
-# Compiled Static libraries   
-*/.a   
-
-# Executables   
-*/.exe   
-*/.out   
-*/.app   
-
-# Debug files   
-*/.dSYM/   
-
+# OS-specific
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini

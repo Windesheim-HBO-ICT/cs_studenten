@@ -14,9 +14,9 @@
                 <DataTemplate x:DataType="m:Person">
                     
                 <HorizontalStackLayout>
-                        <Label TextColor="White" Grid.Column="0" Text="{Binding FirstName}"  />
-                        <Label TextColor="White" Grid.Column="1" Text="{Binding LastName}"  />
-                        <Label TextColor="White" Grid.Column="2" Text="{Binding DateOfBirth}" />
+                        <Label Text="{Binding FirstName}"  />
+                        <Label Text="{Binding LastName}"  />
+                        <Label Text="{Binding DateOfBirth}" />
                 </HorizontalStackLayout>
 
                 </DataTemplate>

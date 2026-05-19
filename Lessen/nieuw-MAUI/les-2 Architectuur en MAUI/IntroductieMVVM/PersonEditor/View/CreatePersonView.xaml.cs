@@ -1,3 +1,5 @@
+using PersonEditor.ViewModel;
+
 namespace PersonEditor.View;
 
 public partial class CreatePersonView : ContentPage
@@ -5,5 +7,6 @@ public partial class CreatePersonView : ContentPage
 	public CreatePersonView()
 	{
 		InitializeComponent();
-	}
+
+    }
 }
