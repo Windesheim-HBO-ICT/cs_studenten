@@ -1,34 +1,40 @@
-# IDE folders
-.idea/
-.vscode/
-.vs/
+# IDE folders - anywhere in repository
+
+**/.idea/
+**/.vscode/
+**/.vs/
 
 # Git internals
+
 .git/
 
 # User-specific files
+
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-# Build output
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
-artifacts/
-x64/
-x86/
-arm/
-arm64/
+# Build output - anywhere in repository
+
+**/[Bb]in/
+**/[Oo]bj/
+**/[Ll]og/
+**/[Ll]ogs/
+**/artifacts/
+**/x64/
+**/x86/
+**/arm/
+**/arm64/
 
 # Visual Studio cache & db
-.ipch/
+
+**/.ipch/
 *.VC.db
 *.VC.VC.opendb
 
 # Visual Studio generated files
+
 *_i.c
 *_p.c
 *_h.h
@@ -53,41 +59,48 @@ arm64/
 *.tlh
 
 # MSBuild
+
 AppxManifest.xml
-BundleArtifacts/
-BundleAssemblies/
-TestResults/
-_build/
+**/BundleArtifacts/
+**/BundleAssemblies/
+**/TestResults/
+**/_build/
 
 # NuGet
-packages/
+
+**/packages/
 *.nupkg
 project.lock.json
 project.fragment.lock.json
 
 # .NET Core / .NET 5–10
+
 *.deps.json
 *.runtimeconfig.json
 *.runtimeconfig.dev.json
 
 # Publish output
-publish/
+
+**/publish/
 *.Publish.xml
 *.Publish.ps1
 *.Publish.targets
 *.Publish.htm*
 
 # Azure
-csx/
-*_bin_deployableAssemblies/
+
+**/csx/
+**/*_bin_deployableAssemblies/
 AzureWebJobsDashboard/
 AzureWebJobsStorage/
 
 # Web dependencies
-node_modules/
-bower_components/
+
+**/node_modules/
+**/bower_components/
 
 # Test frameworks
+
 *.VisualState.xml
 _Chutzpah*
 NCrunch_*
@@ -95,26 +108,29 @@ NCrunch_*
 *.coveragexml
 
 # ReSharper / Rider
+
 _ReSharper*/
 *.DotSettings.user
 
 # StyleCop
+
 StyleCopReport.xml
 
 # InstallShield
+
 [Ee]xpress/
 
 # DocProject
+
 DocProject/buildhelp/
 DocProject/Help/*
 
-# ClickOnce
-publish/
-
 # Web projects
+
 **/App_Data/
 
 # Compiled binaries
+
 *.exe
 *.dll
 *.so
@@ -125,15 +141,21 @@ publish/
 *.app
 
 # Debug symbols
+
 *.dSYM/
 
 # Logs
+
 *.log
 
 # OS-specific
+
 # macOS
+
 .DS_Store
+
 # Windows
+
 Thumbs.db
 ehthumbs.db
 desktop.ini
