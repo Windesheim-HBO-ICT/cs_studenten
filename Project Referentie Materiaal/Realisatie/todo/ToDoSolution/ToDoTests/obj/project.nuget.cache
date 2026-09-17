@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8BvBUZmh8tc=",
+  "dgSpecHash": "Ugw07wk1cH0=",
   "success": true,
   "projectFilePath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDoTests\\ToDoTests.csproj",
   "expectedPackageFiles": [
@@ -34,7 +34,7 @@
     {
       "code": "NU1510",
       "level": "Warning",
-      "message": "PackageReference System.Text.RegularExpressions will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "message": "PackageReference System.Text.RegularExpressions will not be pruned. This package is automatically available and does not need to be referenced explicitly. Remove the PackageReference item.",
       "projectPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDoTests\\ToDoTests.csproj",
       "warningLevel": 1,
       "filePath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDoTests\\ToDoTests.csproj",
@@ -46,7 +46,7 @@
     {
       "code": "NU1510",
       "level": "Warning",
-      "message": "PackageReference System.Net.Http will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "message": "PackageReference System.Net.Http will not be pruned. This package is automatically available and does not need to be referenced explicitly. Remove the PackageReference item.",
       "projectPath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDoTests\\ToDoTests.csproj",
       "warningLevel": 1,
       "filePath": "E:\\GIT\\OOSDD-23-24\\v1\\cs_studenten\\Project Referentie Materiaal\\Realisatie\\todo\\ToDoSolution\\ToDoTests\\ToDoTests.csproj",

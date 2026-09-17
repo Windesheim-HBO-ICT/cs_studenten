@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.6.33815.320
+# Visual Studio Version 18
+VisualStudioVersion = 18.10.12210.168 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDo.ConsoleApp", "ToDo.ConsoleApp\ToDo.ConsoleApp.csproj", "{209A8076-CFE8-44B2-AAA6-884559EF79CE}"
 EndProject
@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{4BDD6F42
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.DataAccess.InMemory", "ToDo.DataAccess.InMemory\ToDo.DataAccess.InMemory.csproj", "{EE4AC7DA-09BF-42A2-8044-C580465E06BF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoTests", "ToDoTests\ToDoTests.csproj", "{2E01E65F-04BC-4F8B-B135-3FE794CEB790}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoNUnitTests", "ToDoNUnitTests\ToDoNUnitTests.csproj", "{DD346046-85FC-4EAB-8386-470A7BC97AC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,16 +31,16 @@ Global
 		{EE4AC7DA-09BF-42A2-8044-C580465E06BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE4AC7DA-09BF-42A2-8044-C580465E06BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE4AC7DA-09BF-42A2-8044-C580465E06BF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2E01E65F-04BC-4F8B-B135-3FE794CEB790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2E01E65F-04BC-4F8B-B135-3FE794CEB790}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2E01E65F-04BC-4F8B-B135-3FE794CEB790}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2E01E65F-04BC-4F8B-B135-3FE794CEB790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD346046-85FC-4EAB-8386-470A7BC97AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD346046-85FC-4EAB-8386-470A7BC97AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD346046-85FC-4EAB-8386-470A7BC97AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD346046-85FC-4EAB-8386-470A7BC97AC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{2E01E65F-04BC-4F8B-B135-3FE794CEB790} = {4BDD6F42-7795-417F-A058-7513C50F578C}
+		{DD346046-85FC-4EAB-8386-470A7BC97AC2} = {4BDD6F42-7795-417F-A058-7513C50F578C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {794A02EB-02B9-4E68-AF91-95DD18B47D78}
