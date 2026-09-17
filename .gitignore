@@ -2,9 +2,13 @@
 .idea/
 .vscode/
 .vs/
+**/.idea/
+**/.vscode/
+**/.vs/
 
 # Git internals
 .git/
+**/.git/
 
 # User-specific files
 *.user
@@ -22,11 +26,23 @@ x64/
 x86/
 arm/
 arm64/
+**/[Bb]in/
+**/[Oo]bj/
+**/[Ll]og/
+**/[Ll]ogs/
+**/artifacts/
+**/x64/
+**/x86/
+**/arm/
+**/arm64/
 
 # Visual Studio cache & db
 .ipch/
 *.VC.db
 *.VC.VC.opendb
+**/.ipch/
+**/*.VC.db
+**/*.VC.VC.opendb
 
 # Visual Studio generated files
 *_i.c
@@ -51,6 +67,28 @@ arm64/
 *.tlb
 *.tli
 *.tlh
+**/*_i.c
+**/*_p.c
+**/*_h.h
+**/*_wpftmp.csproj
+**/*_wpftmp.sln
+**/*.tmp
+**/*.tmp_proj
+**/*.cache
+**/*.ilk
+**/*.meta
+**/*.obj
+**/*.iobj
+**/*.pch
+**/*.pdb
+**/*.ipdb
+**/*.pgc
+**/*.pgd
+**/*.rsp
+**/*.sbr
+**/*.tlb
+**/*.tli
+**/*.tlh
 
 # MSBuild
 AppxManifest.xml
@@ -58,17 +96,29 @@ BundleArtifacts/
 BundleAssemblies/
 TestResults/
 _build/
+**/AppxManifest.xml
+**/BundleArtifacts/
+**/BundleAssemblies/
+**/TestResults/
+**/_build/
 
 # NuGet
 packages/
 *.nupkg
 project.lock.json
 project.fragment.lock.json
+**/packages/
+**/*.nupkg
+**/project.lock.json
+**/project.fragment.lock.json
 
 # .NET Core / .NET 5–10
 *.deps.json
 *.runtimeconfig.json
 *.runtimeconfig.dev.json
+**/*.deps.json
+**/*.runtimeconfig.json
+**/*.runtimeconfig.dev.json
 
 # Publish output
 publish/
@@ -76,16 +126,27 @@ publish/
 *.Publish.ps1
 *.Publish.targets
 *.Publish.htm*
+**/publish/
+**/*.Publish.xml
+**/*.Publish.ps1
+**/*.Publish.targets
+**/*.Publish.htm*
 
 # Azure
 csx/
 *_bin_deployableAssemblies/
 AzureWebJobsDashboard/
 AzureWebJobsStorage/
+**/csx/
+**/*_bin_deployableAssemblies/
+**/AzureWebJobsDashboard/
+**/AzureWebJobsStorage/
 
 # Web dependencies
 node_modules/
 bower_components/
+**/node_modules/
+**/bower_components/
 
 # Test frameworks
 *.VisualState.xml
@@ -93,23 +154,35 @@ _Chutzpah*
 NCrunch_*
 *.coverage
 *.coveragexml
+**/*.VisualState.xml
+**/_Chutzpah*
+**/NCrunch_*
+**/*.coverage
+**/*.coveragexml
 
 # ReSharper / Rider
 _ReSharper*/
 *.DotSettings.user
+**/_ReSharper*/
+**/*.DotSettings.user
 
 # StyleCop
 StyleCopReport.xml
+**/StyleCopReport.xml
 
 # InstallShield
 [Ee]xpress/
+**/[Ee]xpress/
 
 # DocProject
 DocProject/buildhelp/
 DocProject/Help/*
+**/DocProject/buildhelp/
+**/DocProject/Help/*
 
 # ClickOnce
 publish/
+**/publish/
 
 # Web projects
 **/App_Data/
@@ -123,17 +196,31 @@ publish/
 *.lib
 *.out
 *.app
+**/*.exe
+**/*.dll
+**/*.so
+**/*.dylib
+**/*.a
+**/*.lib
+**/*.out
+**/*.app
 
 # Debug symbols
 *.dSYM/
+**/*.dSYM/
 
 # Logs
 *.log
+**/*.log
 
 # OS-specific
 # macOS
 .DS_Store
+**/.DS_Store
 # Windows
 Thumbs.db
 ehthumbs.db
 desktop.ini
+**/Thumbs.db
+**/ehthumbs.db
+**/desktop.ini
